@@ -1,0 +1,1152 @@
+Sale date,Manufacturer,Sale,Region,Average MPG,Average Weight in Pounds
+10/23/2013,GM," $11,197.00 ",USA,24 Miles per Gallon,3207 lbs
+4/22/2013,Fiat," $20,335.00 ",Canada,16 Miles per Gallon,3934 lbs
+3/13/2014,Toyota," $20,874.00 ",USA,22 Miles per Gallon,2922 lbs
+5/15/2014,GM," $20,166.00 ",Latin America,16 Miles per Gallon,2196 lbs
+9/30/2014,Ford," $26,349.00 ",USA,25 Miles per Gallon,4173 lbs
+11/15/2012,Ford," $17,918.00 ",Latin America,16 Miles per Gallon,2598 lbs
+8/17/2013,Toyota," $39,341.00 ",Latin America,27 Miles per Gallon,2216 lbs
+12/11/2013,GM," $33,241.00 ",USA,22 Miles per Gallon,3645 lbs
+8/29/2013,Fiat," $22,824.00 ",Latin America,16 Miles per Gallon,3563 lbs
+4/23/2014,Toyota," $15,745.00 ",Mexico,38 Miles per Gallon,4162 lbs
+12/14/2012,Ford," $22,782.00 ",Mexico,15 Miles per Gallon,3797 lbs
+9/6/2012,Toyota," $14,181.00 ",USA,24 Miles per Gallon,3205 lbs
+3/3/2014,GM," $28,985.00 ",USA,21 Miles per Gallon,2285 lbs
+10/18/2014,Fiat," $6,242.00 ",Mexico,18 Miles per Gallon,2418 lbs
+8/21/2013,Toyota," $19,720.00 ",Mexico,38 Miles per Gallon,2922 lbs
+6/3/2014,Toyota," $30,713.00 ",Latin America,28 Miles per Gallon,4137 lbs
+12/22/2013,GM," $8,901.00 ",Latin America,13 Miles per Gallon,2548 lbs
+1/19/2014,Toyota," $33,834.00 ",USA,31 Miles per Gallon,4321 lbs
+12/24/2012,Toyota," $33,896.00 ",USA,24 Miles per Gallon,4386 lbs
+11/29/2012,Toyota," $24,520.00 ",Canada,24 Miles per Gallon,3716 lbs
+9/13/2013,GM," $12,519.00 ",Latin America,16 Miles per Gallon,2325 lbs
+8/7/2013,Ford," $34,324.00 ",Latin America,15 Miles per Gallon,3206 lbs
+7/16/2014,Fiat," $36,139.00 ",USA,21 Miles per Gallon,3992 lbs
+8/15/2012,Toyota," $20,595.00 ",USA,25 Miles per Gallon,4402 lbs
+9/20/2012,Toyota," $19,799.00 ",Canada,27 Miles per Gallon,2746 lbs
+11/9/2012,Fiat," $27,644.00 ",USA,15 Miles per Gallon,3600 lbs
+1/30/2014,Fiat," $21,741.00 ",Mexico,22 Miles per Gallon,3981 lbs
+8/5/2012,Ford," $14,052.00 ",Canada,14 Miles per Gallon,4215 lbs
+12/17/2012,Toyota," $7,231.00 ",Latin America,23 Miles per Gallon,2101 lbs
+8/5/2013,Ford," $31,277.00 ",USA,25 Miles per Gallon,3600 lbs
+7/8/2013,Fiat," $24,074.00 ",Latin America,21 Miles per Gallon,2754 lbs
+9/30/2012,Toyota," $36,267.00 ",USA,26 Miles per Gallon,3227 lbs
+9/23/2014,Fiat," $29,160.00 ",USA,13 Miles per Gallon,4245 lbs
+5/2/2014,Ford," $35,826.00 ",Mexico,23 Miles per Gallon,2533 lbs
+7/12/2014,GM," $20,847.00 ",Mexico,25 Miles per Gallon,3067 lbs
+12/15/2012,Ford," $39,946.00 ",Canada,23 Miles per Gallon,4455 lbs
+9/19/2013,Ford," $16,733.00 ",Latin America,23 Miles per Gallon,2669 lbs
+6/7/2013,Ford," $7,395.00 ",Canada,18 Miles per Gallon,3701 lbs
+3/12/2014,GM," $30,969.00 ",USA,25 Miles per Gallon,3639 lbs
+9/8/2012,GM," $19,078.00 ",USA,12 Miles per Gallon,3632 lbs
+11/26/2012,Fiat," $25,177.00 ",Canada,19 Miles per Gallon,4460 lbs
+9/15/2012,Fiat," $9,269.00 ",Latin America,23 Miles per Gallon,4415 lbs
+3/26/2013,GM," $10,714.00 ",Canada,18 Miles per Gallon,2647 lbs
+5/15/2014,GM," $6,429.00 ",USA,25 Miles per Gallon,3727 lbs
+4/19/2013,Toyota," $39,196.00 ",Latin America,20 Miles per Gallon,2023 lbs
+9/25/2012,Fiat," $37,725.00 ",Mexico,23 Miles per Gallon,3321 lbs
+3/23/2013,Ford," $8,019.00 ",Mexico,23 Miles per Gallon,3541 lbs
+5/1/2013,GM," $25,347.00 ",Latin America,24 Miles per Gallon,4042 lbs
+3/1/2013,Toyota," $30,992.00 ",USA,28 Miles per Gallon,4438 lbs
+1/27/2014,Fiat," $33,952.00 ",USA,17 Miles per Gallon,2916 lbs
+2/3/2014,GM," $13,546.00 ",Canada,24 Miles per Gallon,3334 lbs
+8/5/2014,GM," $10,361.00 ",Latin America,23 Miles per Gallon,3725 lbs
+1/3/2015,Ford," $10,637.00 ",Latin America,14 Miles per Gallon,2438 lbs
+9/20/2014,Fiat," $11,689.00 ",Mexico,23 Miles per Gallon,2096 lbs
+10/7/2012,Toyota," $29,480.00 ",Latin America,34 Miles per Gallon,3919 lbs
+10/13/2012,Fiat," $15,007.00 ",Latin America,18 Miles per Gallon,3381 lbs
+9/4/2013,GM," $13,187.00 ",Latin America,22 Miles per Gallon,3641 lbs
+11/9/2012,Ford," $14,070.00 ",Latin America,23 Miles per Gallon,2731 lbs
+5/30/2014,Ford," $37,527.00 ",USA,20 Miles per Gallon,2183 lbs
+9/11/2013,Ford," $30,656.00 ",Canada,24 Miles per Gallon,4310 lbs
+9/12/2014,Ford," $38,080.00 ",Canada,17 Miles per Gallon,2610 lbs
+12/24/2013,GM," $15,969.00 ",Latin America,25 Miles per Gallon,2042 lbs
+5/14/2013,GM," $35,196.00 ",USA,18 Miles per Gallon,2758 lbs
+3/24/2014,GM," $31,173.00 ",Latin America,16 Miles per Gallon,3128 lbs
+3/7/2013,Ford," $11,925.00 ",Canada,13 Miles per Gallon,3648 lbs
+12/7/2012,Toyota," $36,352.00 ",Latin America,33 Miles per Gallon,4349 lbs
+10/20/2014,Toyota," $31,382.00 ",Latin America,25 Miles per Gallon,3358 lbs
+11/30/2014,Ford," $34,267.00 ",Mexico,21 Miles per Gallon,2442 lbs
+9/13/2012,GM," $21,564.00 ",Canada,21 Miles per Gallon,2691 lbs
+7/18/2014,Ford," $15,208.00 ",USA,17 Miles per Gallon,2271 lbs
+8/11/2013,Fiat," $9,283.00 ",Latin America,16 Miles per Gallon,2106 lbs
+5/11/2014,Ford," $30,686.00 ",USA,19 Miles per Gallon,2072 lbs
+5/10/2013,Fiat," $14,335.00 ",Canada,20 Miles per Gallon,2133 lbs
+8/10/2012,Ford," $10,978.00 ",Mexico,20 Miles per Gallon,2009 lbs
+10/27/2013,Fiat," $6,404.00 ",Canada,14 Miles per Gallon,2110 lbs
+5/25/2013,Ford," $8,534.00 ",Mexico,24 Miles per Gallon,3823 lbs
+3/13/2014,Fiat," $35,878.00 ",Mexico,14 Miles per Gallon,3163 lbs
+12/16/2014,Toyota," $10,083.00 ",Mexico,31 Miles per Gallon,3181 lbs
+1/17/2013,Toyota," $24,644.00 ",USA,28 Miles per Gallon,2545 lbs
+5/4/2013,Fiat," $33,395.00 ",Canada,15 Miles per Gallon,3598 lbs
+10/31/2014,Fiat," $11,851.00 ",Latin America,13 Miles per Gallon,4239 lbs
+4/2/2013,Ford," $27,445.00 ",Canada,16 Miles per Gallon,3731 lbs
+8/22/2013,Toyota," $30,000.00 ",USA,39 Miles per Gallon,2935 lbs
+8/28/2014,Ford," $25,544.00 ",Canada,23 Miles per Gallon,3299 lbs
+10/29/2012,Toyota," $31,420.00 ",Canada,20 Miles per Gallon,3030 lbs
+9/17/2014,GM," $8,819.00 ",Mexico,18 Miles per Gallon,3978 lbs
+7/20/2014,Ford," $24,383.00 ",Latin America,12 Miles per Gallon,3603 lbs
+10/16/2013,Fiat," $27,563.00 ",Latin America,22 Miles per Gallon,4420 lbs
+10/24/2014,Ford," $21,990.00 ",Canada,13 Miles per Gallon,3044 lbs
+6/6/2014,Fiat," $36,165.00 ",USA,18 Miles per Gallon,2190 lbs
+10/6/2012,Fiat," $23,041.00 ",Latin America,24 Miles per Gallon,2449 lbs
+7/9/2014,GM," $18,302.00 ",Latin America,25 Miles per Gallon,2511 lbs
+7/17/2013,Fiat," $28,424.00 ",Latin America,16 Miles per Gallon,3880 lbs
+11/30/2013,Toyota," $29,112.00 ",Mexico,29 Miles per Gallon,3564 lbs
+11/8/2012,GM," $19,867.00 ",USA,21 Miles per Gallon,2917 lbs
+9/2/2012,GM," $30,713.00 ",Mexico,21 Miles per Gallon,3372 lbs
+5/3/2014,Toyota," $17,649.00 ",USA,22 Miles per Gallon,2079 lbs
+9/1/2013,Ford," $34,740.00 ",Canada,25 Miles per Gallon,3620 lbs
+1/2/2014,Toyota," $27,852.00 ",Latin America,39 Miles per Gallon,3100 lbs
+6/26/2014,Fiat," $8,716.00 ",Latin America,21 Miles per Gallon,3229 lbs
+12/12/2014,Ford," $18,538.00 ",USA,25 Miles per Gallon,2282 lbs
+8/31/2012,Toyota," $25,908.00 ",Mexico,38 Miles per Gallon,2240 lbs
+1/11/2013,Toyota," $9,710.00 ",USA,32 Miles per Gallon,3801 lbs
+10/30/2012,Fiat," $26,447.00 ",Canada,13 Miles per Gallon,2466 lbs
+10/26/2012,GM," $19,360.00 ",Latin America,16 Miles per Gallon,2690 lbs
+10/27/2012,Fiat," $36,314.00 ",Mexico,23 Miles per Gallon,3851 lbs
+8/9/2014,GM," $20,687.00 ",Latin America,24 Miles per Gallon,3767 lbs
+4/29/2013,GM," $29,437.00 ",Canada,13 Miles per Gallon,3990 lbs
+1/8/2014,Ford," $14,731.00 ",Latin America,15 Miles per Gallon,3049 lbs
+4/17/2013,Fiat," $26,804.00 ",Mexico,16 Miles per Gallon,3503 lbs
+7/26/2013,Fiat," $36,509.00 ",Latin America,25 Miles per Gallon,4120 lbs
+11/26/2013,GM," $10,473.00 ",Canada,17 Miles per Gallon,3159 lbs
+9/19/2014,Toyota," $9,169.00 ",Mexico,26 Miles per Gallon,4158 lbs
+10/4/2012,GM," $29,945.00 ",Mexico,14 Miles per Gallon,2191 lbs
+10/27/2014,Fiat," $30,371.00 ",Mexico,15 Miles per Gallon,2017 lbs
+12/6/2012,Toyota," $17,199.00 ",Canada,21 Miles per Gallon,3379 lbs
+11/10/2012,Toyota," $29,514.00 ",Canada,25 Miles per Gallon,3284 lbs
+8/21/2012,Ford," $35,376.00 ",Canada,13 Miles per Gallon,3428 lbs
+12/3/2012,Ford," $6,749.00 ",Canada,14 Miles per Gallon,3859 lbs
+9/25/2013,GM," $32,151.00 ",Latin America,20 Miles per Gallon,2052 lbs
+8/9/2013,GM," $9,364.00 ",USA,21 Miles per Gallon,4476 lbs
+1/15/2013,Fiat," $23,684.00 ",Mexico,14 Miles per Gallon,4343 lbs
+7/29/2014,Toyota," $23,513.00 ",USA,32 Miles per Gallon,2986 lbs
+1/28/2013,Ford," $12,526.00 ",Mexico,12 Miles per Gallon,2995 lbs
+1/17/2013,Toyota," $19,726.00 ",USA,29 Miles per Gallon,3748 lbs
+6/11/2013,Fiat," $20,669.00 ",USA,21 Miles per Gallon,4345 lbs
+4/9/2013,GM," $20,620.00 ",Mexico,13 Miles per Gallon,4276 lbs
+6/22/2013,GM," $28,928.00 ",Mexico,22 Miles per Gallon,2206 lbs
+6/12/2014,Fiat," $16,863.00 ",Mexico,18 Miles per Gallon,2717 lbs
+1/30/2013,GM," $24,624.00 ",USA,16 Miles per Gallon,3012 lbs
+7/11/2014,Toyota," $11,247.00 ",Mexico,31 Miles per Gallon,3761 lbs
+10/24/2013,GM," $29,676.00 ",Mexico,19 Miles per Gallon,2746 lbs
+4/29/2014,Fiat," $22,778.00 ",Latin America,13 Miles per Gallon,2511 lbs
+1/14/2013,GM," $9,462.00 ",Latin America,14 Miles per Gallon,2378 lbs
+5/9/2013,Toyota," $5,547.00 ",Mexico,38 Miles per Gallon,3055 lbs
+1/4/2014,Toyota," $23,363.00 ",Canada,34 Miles per Gallon,3320 lbs
+8/13/2013,GM," $6,701.00 ",Latin America,17 Miles per Gallon,3109 lbs
+10/24/2013,Fiat," $24,254.00 ",Latin America,14 Miles per Gallon,2244 lbs
+6/8/2013,Toyota," $12,668.00 ",Canada,36 Miles per Gallon,2897 lbs
+1/19/2014,Fiat," $13,083.00 ",Mexico,24 Miles per Gallon,3551 lbs
+5/27/2013,Toyota," $22,663.00 ",Mexico,25 Miles per Gallon,3504 lbs
+8/22/2014,Toyota," $36,680.00 ",Canada,30 Miles per Gallon,2949 lbs
+10/26/2013,Toyota," $21,584.00 ",Mexico,25 Miles per Gallon,3800 lbs
+7/2/2013,Ford," $5,596.00 ",USA,19 Miles per Gallon,3880 lbs
+9/7/2014,Toyota," $23,199.00 ",Mexico,40 Miles per Gallon,3069 lbs
+10/10/2012,GM," $38,287.00 ",Canada,23 Miles per Gallon,3728 lbs
+1/5/2013,Fiat," $23,866.00 ",Canada,13 Miles per Gallon,2886 lbs
+9/8/2012,Ford," $11,379.00 ",USA,15 Miles per Gallon,4170 lbs
+1/11/2013,Toyota," $8,474.00 ",Latin America,38 Miles per Gallon,2674 lbs
+9/22/2013,Fiat," $33,638.00 ",USA,15 Miles per Gallon,3902 lbs
+12/18/2013,Fiat," $31,581.00 ",USA,15 Miles per Gallon,3032 lbs
+4/12/2014,Fiat," $12,537.00 ",Latin America,25 Miles per Gallon,4054 lbs
+5/25/2013,Ford," $27,226.00 ",USA,25 Miles per Gallon,2414 lbs
+10/4/2012,Fiat," $15,771.00 ",Canada,16 Miles per Gallon,2687 lbs
+3/28/2013,Fiat," $8,938.00 ",Latin America,21 Miles per Gallon,2169 lbs
+12/25/2014,Toyota," $13,110.00 ",Canada,26 Miles per Gallon,3340 lbs
+1/30/2014,Fiat," $18,357.00 ",Latin America,18 Miles per Gallon,2002 lbs
+10/17/2014,GM," $26,686.00 ",Latin America,15 Miles per Gallon,2485 lbs
+5/23/2013,Toyota," $12,551.00 ",Canada,32 Miles per Gallon,4121 lbs
+9/10/2013,Ford," $34,945.00 ",Latin America,24 Miles per Gallon,2427 lbs
+10/26/2012,GM," $17,783.00 ",Mexico,24 Miles per Gallon,2893 lbs
+2/3/2013,GM," $39,834.00 ",USA,21 Miles per Gallon,2894 lbs
+11/21/2012,Toyota," $19,036.00 ",Mexico,20 Miles per Gallon,4135 lbs
+7/20/2013,Toyota," $30,367.00 ",Canada,38 Miles per Gallon,2857 lbs
+8/23/2014,Toyota," $17,576.00 ",Canada,24 Miles per Gallon,2579 lbs
+5/14/2013,Toyota," $35,056.00 ",Latin America,39 Miles per Gallon,2221 lbs
+2/13/2013,Ford," $21,240.00 ",USA,14 Miles per Gallon,2901 lbs
+10/16/2013,Toyota," $5,341.00 ",Latin America,28 Miles per Gallon,4425 lbs
+6/8/2013,Toyota," $34,499.00 ",Canada,25 Miles per Gallon,3197 lbs
+6/27/2013,GM," $38,781.00 ",Latin America,15 Miles per Gallon,3203 lbs
+5/11/2013,Ford," $13,248.00 ",Mexico,25 Miles per Gallon,3904 lbs
+9/7/2014,Fiat," $21,123.00 ",Mexico,13 Miles per Gallon,3589 lbs
+11/15/2012,Toyota," $38,268.00 ",Latin America,25 Miles per Gallon,2154 lbs
+9/8/2013,Ford," $13,207.00 ",Mexico,17 Miles per Gallon,2516 lbs
+7/18/2013,GM," $21,421.00 ",Canada,21 Miles per Gallon,4027 lbs
+6/7/2014,GM," $14,717.00 ",Canada,15 Miles per Gallon,2011 lbs
+9/3/2012,Toyota," $34,076.00 ",Mexico,21 Miles per Gallon,4474 lbs
+3/15/2013,GM," $9,076.00 ",USA,20 Miles per Gallon,4054 lbs
+8/20/2012,Ford," $5,068.00 ",Canada,20 Miles per Gallon,4135 lbs
+12/13/2013,Toyota," $22,417.00 ",Mexico,24 Miles per Gallon,3002 lbs
+12/27/2014,GM," $26,889.00 ",Canada,12 Miles per Gallon,2117 lbs
+7/14/2014,GM," $17,592.00 ",USA,21 Miles per Gallon,4306 lbs
+9/27/2014,Fiat," $26,174.00 ",USA,20 Miles per Gallon,3521 lbs
+7/6/2013,Fiat," $28,585.00 ",USA,12 Miles per Gallon,2827 lbs
+8/9/2014,Ford," $29,390.00 ",Latin America,20 Miles per Gallon,3117 lbs
+3/17/2013,Toyota," $37,511.00 ",USA,23 Miles per Gallon,3364 lbs
+7/7/2014,Toyota," $6,419.00 ",USA,23 Miles per Gallon,4496 lbs
+2/22/2013,Ford," $5,996.00 ",USA,14 Miles per Gallon,2372 lbs
+5/3/2014,GM," $11,064.00 ",Latin America,23 Miles per Gallon,4229 lbs
+9/13/2014,GM," $25,359.00 ",Latin America,14 Miles per Gallon,3455 lbs
+11/27/2014,GM," $5,073.00 ",Mexico,14 Miles per Gallon,2694 lbs
+10/26/2013,Toyota," $33,302.00 ",Latin America,29 Miles per Gallon,3340 lbs
+12/13/2012,Toyota," $6,463.00 ",USA,37 Miles per Gallon,3029 lbs
+11/3/2013,Toyota," $23,047.00 ",USA,25 Miles per Gallon,3881 lbs
+10/16/2014,Toyota," $39,666.00 ",Mexico,33 Miles per Gallon,2805 lbs
+7/14/2014,Fiat," $30,845.00 ",USA,13 Miles per Gallon,3658 lbs
+12/7/2014,Fiat," $5,726.00 ",Mexico,21 Miles per Gallon,4115 lbs
+4/28/2014,Toyota," $37,876.00 ",USA,20 Miles per Gallon,4128 lbs
+5/22/2014,Fiat," $21,009.00 ",Latin America,12 Miles per Gallon,4286 lbs
+2/4/2013,Ford," $37,153.00 ",Canada,14 Miles per Gallon,2606 lbs
+5/13/2014,Fiat," $28,368.00 ",Mexico,24 Miles per Gallon,3892 lbs
+3/27/2014,GM," $23,210.00 ",Canada,23 Miles per Gallon,3128 lbs
+1/6/2015,Ford," $31,432.00 ",Mexico,21 Miles per Gallon,3992 lbs
+7/26/2014,Ford," $36,110.00 ",Latin America,16 Miles per Gallon,2285 lbs
+1/7/2014,GM," $13,143.00 ",Mexico,14 Miles per Gallon,2827 lbs
+10/21/2014,Fiat," $9,417.00 ",Canada,14 Miles per Gallon,3882 lbs
+1/31/2013,Fiat," $5,548.00 ",Mexico,24 Miles per Gallon,2305 lbs
+8/31/2013,GM," $9,601.00 ",Canada,18 Miles per Gallon,3288 lbs
+5/10/2013,GM," $31,457.00 ",Canada,20 Miles per Gallon,2667 lbs
+9/26/2014,Ford," $19,247.00 ",Latin America,21 Miles per Gallon,2388 lbs
+4/5/2013,Ford," $7,305.00 ",USA,23 Miles per Gallon,4119 lbs
+11/1/2013,Ford," $33,693.00 ",USA,23 Miles per Gallon,4009 lbs
+11/23/2014,Toyota," $14,560.00 ",Canada,33 Miles per Gallon,2081 lbs
+12/1/2014,Ford," $11,784.00 ",Mexico,18 Miles per Gallon,3919 lbs
+10/11/2013,Ford," $16,602.00 ",USA,18 Miles per Gallon,3847 lbs
+11/5/2012,Fiat," $17,888.00 ",Latin America,22 Miles per Gallon,3317 lbs
+9/24/2012,Toyota," $39,649.00 ",Canada,39 Miles per Gallon,3966 lbs
+5/9/2013,Ford," $34,013.00 ",Mexico,12 Miles per Gallon,2566 lbs
+10/1/2014,Toyota," $24,997.00 ",USA,29 Miles per Gallon,4434 lbs
+12/2/2013,Fiat," $21,128.00 ",Canada,22 Miles per Gallon,2145 lbs
+11/6/2014,GM," $29,897.00 ",USA,18 Miles per Gallon,4353 lbs
+2/5/2014,GM," $26,963.00 ",Latin America,12 Miles per Gallon,3254 lbs
+10/1/2012,Toyota," $39,832.00 ",Latin America,31 Miles per Gallon,3036 lbs
+10/24/2014,Toyota," $23,508.00 ",Mexico,37 Miles per Gallon,2197 lbs
+12/24/2013,Toyota," $12,704.00 ",Latin America,24 Miles per Gallon,3466 lbs
+8/20/2014,Toyota," $12,342.00 ",USA,40 Miles per Gallon,2245 lbs
+6/12/2014,Toyota," $22,693.00 ",Mexico,31 Miles per Gallon,3115 lbs
+8/2/2012,GM," $10,578.00 ",Canada,12 Miles per Gallon,4272 lbs
+1/22/2013,Fiat," $22,523.00 ",Mexico,24 Miles per Gallon,2671 lbs
+3/7/2014,GM," $30,855.00 ",USA,22 Miles per Gallon,2295 lbs
+4/14/2013,Fiat," $21,219.00 ",Mexico,23 Miles per Gallon,2198 lbs
+1/6/2015,GM," $11,050.00 ",Canada,12 Miles per Gallon,2086 lbs
+6/17/2014,Fiat," $31,079.00 ",Latin America,25 Miles per Gallon,3160 lbs
+6/14/2013,Ford," $17,805.00 ",Latin America,24 Miles per Gallon,2957 lbs
+5/24/2014,Toyota," $32,370.00 ",Latin America,20 Miles per Gallon,4197 lbs
+6/29/2014,Ford," $38,769.00 ",USA,12 Miles per Gallon,3226 lbs
+11/21/2013,Ford," $23,308.00 ",USA,22 Miles per Gallon,2230 lbs
+10/22/2012,Fiat," $33,014.00 ",Latin America,15 Miles per Gallon,3156 lbs
+9/1/2012,Toyota," $8,177.00 ",Latin America,24 Miles per Gallon,3038 lbs
+9/7/2014,Ford," $36,744.00 ",Canada,22 Miles per Gallon,2670 lbs
+11/5/2013,Toyota," $14,862.00 ",Latin America,29 Miles per Gallon,2925 lbs
+5/7/2014,Ford," $13,455.00 ",Mexico,22 Miles per Gallon,3293 lbs
+8/24/2012,Fiat," $21,220.00 ",Latin America,16 Miles per Gallon,4339 lbs
+11/17/2012,Ford," $36,429.00 ",Mexico,24 Miles per Gallon,3271 lbs
+4/9/2013,Ford," $19,429.00 ",USA,15 Miles per Gallon,4070 lbs
+1/28/2013,GM," $21,431.00 ",USA,13 Miles per Gallon,3397 lbs
+1/24/2013,Fiat," $24,638.00 ",Latin America,23 Miles per Gallon,3637 lbs
+1/11/2015,Ford," $25,512.00 ",USA,14 Miles per Gallon,3633 lbs
+4/30/2014,Fiat," $21,782.00 ",Latin America,13 Miles per Gallon,4253 lbs
+2/17/2013,GM," $36,973.00 ",Latin America,16 Miles per Gallon,2572 lbs
+8/1/2013,Toyota," $34,789.00 ",USA,25 Miles per Gallon,3173 lbs
+9/28/2014,Ford," $13,409.00 ",Latin America,19 Miles per Gallon,4183 lbs
+12/12/2014,Toyota," $5,201.00 ",Canada,39 Miles per Gallon,2078 lbs
+5/21/2014,Fiat," $23,560.00 ",Canada,20 Miles per Gallon,3587 lbs
+9/19/2012,Fiat," $12,304.00 ",Mexico,22 Miles per Gallon,4017 lbs
+7/28/2014,Toyota," $30,206.00 ",Canada,23 Miles per Gallon,3930 lbs
+12/17/2014,Fiat," $11,957.00 ",Mexico,24 Miles per Gallon,3164 lbs
+10/28/2013,GM," $19,140.00 ",Canada,13 Miles per Gallon,2750 lbs
+10/2/2014,Ford," $27,317.00 ",Canada,25 Miles per Gallon,3561 lbs
+9/8/2014,Fiat," $24,195.00 ",Latin America,18 Miles per Gallon,2310 lbs
+12/20/2013,Ford," $37,512.00 ",Canada,23 Miles per Gallon,2469 lbs
+8/16/2012,GM," $7,613.00 ",Mexico,20 Miles per Gallon,3780 lbs
+3/18/2013,Fiat," $16,467.00 ",Mexico,14 Miles per Gallon,2832 lbs
+1/13/2015,GM," $26,440.00 ",Canada,18 Miles per Gallon,2241 lbs
+7/13/2013,Toyota," $37,525.00 ",Canada,34 Miles per Gallon,4184 lbs
+8/4/2014,Ford," $18,680.00 ",USA,15 Miles per Gallon,2975 lbs
+6/11/2013,Ford," $18,246.00 ",Canada,18 Miles per Gallon,2734 lbs
+8/26/2012,Ford," $16,355.00 ",USA,23 Miles per Gallon,3955 lbs
+8/24/2014,Fiat," $28,483.00 ",Canada,20 Miles per Gallon,2989 lbs
+12/23/2014,Toyota," $25,404.00 ",Canada,22 Miles per Gallon,3294 lbs
+10/12/2012,GM," $39,160.00 ",Mexico,13 Miles per Gallon,2178 lbs
+7/11/2013,Ford," $31,912.00 ",Mexico,23 Miles per Gallon,4314 lbs
+8/2/2012,GM," $7,170.00 ",Mexico,24 Miles per Gallon,3371 lbs
+8/9/2012,GM," $27,338.00 ",USA,13 Miles per Gallon,3458 lbs
+12/19/2014,GM," $34,180.00 ",Latin America,13 Miles per Gallon,3166 lbs
+8/26/2013,Fiat," $39,861.00 ",Mexico,21 Miles per Gallon,3596 lbs
+8/9/2013,GM," $7,069.00 ",Canada,24 Miles per Gallon,3413 lbs
+6/23/2014,Toyota," $13,760.00 ",Mexico,25 Miles per Gallon,2466 lbs
+5/7/2013,GM," $21,181.00 ",Latin America,17 Miles per Gallon,3308 lbs
+9/4/2012,Fiat," $26,908.00 ",USA,21 Miles per Gallon,2000 lbs
+4/2/2013,GM," $23,222.00 ",Canada,19 Miles per Gallon,3063 lbs
+12/2/2014,GM," $23,403.00 ",Canada,16 Miles per Gallon,2561 lbs
+8/17/2013,Toyota," $36,229.00 ",Mexico,24 Miles per Gallon,4149 lbs
+1/20/2013,Toyota," $21,348.00 ",Mexico,40 Miles per Gallon,3095 lbs
+3/3/2013,GM," $39,602.00 ",Canada,18 Miles per Gallon,2172 lbs
+12/27/2014,Toyota," $13,297.00 ",USA,26 Miles per Gallon,3510 lbs
+11/22/2012,Ford," $22,360.00 ",USA,25 Miles per Gallon,3595 lbs
+11/15/2012,Toyota," $22,336.00 ",Canada,38 Miles per Gallon,3709 lbs
+4/15/2013,Toyota," $11,340.00 ",Canada,35 Miles per Gallon,2461 lbs
+10/1/2014,Ford," $36,572.00 ",Canada,25 Miles per Gallon,2084 lbs
+2/1/2013,GM," $30,948.00 ",Mexico,25 Miles per Gallon,4487 lbs
+3/2/2014,GM," $6,931.00 ",Latin America,19 Miles per Gallon,3653 lbs
+5/23/2014,Ford," $20,305.00 ",Latin America,23 Miles per Gallon,4268 lbs
+11/26/2014,Toyota," $14,477.00 ",Mexico,34 Miles per Gallon,4128 lbs
+9/27/2012,Ford," $18,870.00 ",Canada,25 Miles per Gallon,2072 lbs
+10/2/2014,GM," $15,378.00 ",Mexico,20 Miles per Gallon,4280 lbs
+12/1/2013,Fiat," $12,244.00 ",Mexico,20 Miles per Gallon,2349 lbs
+7/13/2014,Ford," $21,926.00 ",Canada,21 Miles per Gallon,2123 lbs
+7/31/2012,Ford," $33,863.00 ",Latin America,24 Miles per Gallon,3605 lbs
+8/8/2014,Fiat," $29,580.00 ",Latin America,16 Miles per Gallon,3939 lbs
+2/24/2013,Toyota," $9,642.00 ",USA,32 Miles per Gallon,3512 lbs
+12/24/2013,Toyota," $39,583.00 ",Canada,25 Miles per Gallon,3961 lbs
+10/1/2013,Fiat," $23,092.00 ",Mexico,25 Miles per Gallon,2496 lbs
+4/16/2014,Toyota," $37,603.00 ",USA,23 Miles per Gallon,3769 lbs
+7/3/2014,Ford," $23,225.00 ",Latin America,15 Miles per Gallon,3605 lbs
+8/19/2014,GM," $36,727.00 ",Latin America,15 Miles per Gallon,4028 lbs
+9/8/2013,GM," $18,744.00 ",Latin America,13 Miles per Gallon,3087 lbs
+10/16/2013,Toyota," $36,782.00 ",Latin America,32 Miles per Gallon,3064 lbs
+11/28/2012,GM," $8,210.00 ",Mexico,22 Miles per Gallon,2746 lbs
+7/3/2013,Toyota," $7,754.00 ",USA,38 Miles per Gallon,3578 lbs
+12/7/2013,Toyota," $10,142.00 ",Latin America,27 Miles per Gallon,3798 lbs
+9/7/2012,Fiat," $27,030.00 ",Canada,22 Miles per Gallon,2602 lbs
+8/7/2012,Ford," $15,267.00 ",Mexico,22 Miles per Gallon,4209 lbs
+3/26/2013,Fiat," $25,488.00 ",Mexico,14 Miles per Gallon,3973 lbs
+12/26/2014,Fiat," $37,862.00 ",Latin America,13 Miles per Gallon,2006 lbs
+5/24/2013,Ford," $19,896.00 ",Latin America,15 Miles per Gallon,2752 lbs
+6/9/2014,Ford," $7,845.00 ",Mexico,14 Miles per Gallon,2940 lbs
+2/16/2014,Fiat," $14,645.00 ",USA,15 Miles per Gallon,3305 lbs
+7/5/2013,Ford," $19,302.00 ",Latin America,17 Miles per Gallon,3448 lbs
+9/27/2012,Fiat," $18,710.00 ",Mexico,21 Miles per Gallon,2303 lbs
+9/12/2013,Fiat," $31,821.00 ",USA,12 Miles per Gallon,4380 lbs
+10/4/2013,Fiat," $7,080.00 ",USA,24 Miles per Gallon,2604 lbs
+11/4/2012,Ford," $34,667.00 ",Mexico,12 Miles per Gallon,2623 lbs
+6/24/2014,GM," $21,773.00 ",Canada,13 Miles per Gallon,3287 lbs
+2/22/2014,Fiat," $38,052.00 ",Latin America,12 Miles per Gallon,4427 lbs
+12/4/2013,Ford," $25,198.00 ",Latin America,14 Miles per Gallon,3834 lbs
+5/3/2013,Fiat," $23,822.00 ",USA,13 Miles per Gallon,2444 lbs
+1/6/2015,Toyota," $29,015.00 ",Canada,37 Miles per Gallon,2583 lbs
+2/16/2013,Fiat," $31,400.00 ",Mexico,23 Miles per Gallon,4070 lbs
+4/27/2013,Ford," $30,051.00 ",Mexico,16 Miles per Gallon,2155 lbs
+2/17/2014,GM," $34,421.00 ",Latin America,23 Miles per Gallon,3530 lbs
+1/10/2015,Toyota," $11,497.00 ",Latin America,24 Miles per Gallon,2412 lbs
+4/28/2013,Toyota," $18,690.00 ",Canada,32 Miles per Gallon,3496 lbs
+4/20/2014,GM," $23,180.00 ",Latin America,19 Miles per Gallon,2505 lbs
+11/8/2012,GM," $27,823.00 ",Mexico,18 Miles per Gallon,4352 lbs
+7/29/2013,Fiat," $20,519.00 ",Latin America,21 Miles per Gallon,4178 lbs
+10/25/2013,Ford," $9,830.00 ",USA,13 Miles per Gallon,4319 lbs
+1/6/2013,Ford," $25,381.00 ",Mexico,19 Miles per Gallon,2368 lbs
+4/7/2013,GM," $36,474.00 ",Mexico,13 Miles per Gallon,3078 lbs
+8/24/2013,Ford," $31,868.00 ",Latin America,16 Miles per Gallon,3387 lbs
+9/21/2013,GM," $20,157.00 ",Mexico,18 Miles per Gallon,4362 lbs
+11/15/2013,GM," $36,493.00 ",Latin America,18 Miles per Gallon,2788 lbs
+7/1/2014,Fiat," $13,722.00 ",Canada,21 Miles per Gallon,2042 lbs
+1/21/2013,Fiat," $22,149.00 ",Canada,24 Miles per Gallon,2195 lbs
+9/9/2013,GM," $24,392.00 ",Mexico,21 Miles per Gallon,4389 lbs
+2/19/2013,Ford," $21,329.00 ",Canada,18 Miles per Gallon,4463 lbs
+12/11/2012,Ford," $35,654.00 ",Latin America,21 Miles per Gallon,3920 lbs
+5/30/2013,Ford," $5,920.00 ",USA,12 Miles per Gallon,3345 lbs
+11/9/2012,Toyota," $34,560.00 ",Mexico,22 Miles per Gallon,3255 lbs
+5/22/2013,GM," $26,883.00 ",Latin America,18 Miles per Gallon,2135 lbs
+8/16/2012,GM," $39,154.00 ",Canada,18 Miles per Gallon,3920 lbs
+10/8/2014,Toyota," $17,246.00 ",USA,36 Miles per Gallon,3614 lbs
+12/2/2012,GM," $18,869.00 ",USA,15 Miles per Gallon,3026 lbs
+1/5/2015,Toyota," $14,152.00 ",Mexico,24 Miles per Gallon,3978 lbs
+1/29/2013,Ford," $19,638.00 ",Mexico,19 Miles per Gallon,4364 lbs
+12/29/2014,Ford," $14,885.00 ",Mexico,14 Miles per Gallon,3244 lbs
+8/14/2014,GM," $14,833.00 ",Latin America,22 Miles per Gallon,4172 lbs
+11/22/2013,Ford," $33,755.00 ",Canada,25 Miles per Gallon,4355 lbs
+4/14/2013,Fiat," $11,240.00 ",USA,22 Miles per Gallon,3180 lbs
+9/24/2012,Toyota," $29,589.00 ",USA,23 Miles per Gallon,2294 lbs
+9/28/2014,GM," $19,248.00 ",USA,25 Miles per Gallon,2232 lbs
+1/6/2014,Fiat," $15,991.00 ",Latin America,13 Miles per Gallon,3419 lbs
+1/29/2014,Fiat," $9,559.00 ",USA,15 Miles per Gallon,4036 lbs
+3/27/2013,Ford," $33,225.00 ",USA,16 Miles per Gallon,2294 lbs
+12/9/2012,Ford," $28,275.00 ",USA,25 Miles per Gallon,2555 lbs
+7/30/2014,Ford," $8,637.00 ",USA,13 Miles per Gallon,2725 lbs
+8/24/2012,Ford," $15,355.00 ",Latin America,23 Miles per Gallon,4178 lbs
+9/18/2014,Ford," $7,225.00 ",Mexico,13 Miles per Gallon,2488 lbs
+10/9/2014,Toyota," $39,385.00 ",Canada,26 Miles per Gallon,4085 lbs
+11/15/2013,Ford," $12,374.00 ",Latin America,12 Miles per Gallon,2957 lbs
+11/12/2013,GM," $8,364.00 ",USA,20 Miles per Gallon,2630 lbs
+10/13/2013,GM," $29,741.00 ",USA,17 Miles per Gallon,2114 lbs
+2/17/2013,Toyota," $10,540.00 ",Canada,36 Miles per Gallon,3167 lbs
+11/10/2014,GM," $33,269.00 ",USA,22 Miles per Gallon,3732 lbs
+6/30/2013,Fiat," $18,541.00 ",Mexico,17 Miles per Gallon,2603 lbs
+10/23/2012,Fiat," $14,467.00 ",USA,15 Miles per Gallon,3302 lbs
+11/29/2013,Toyota," $19,444.00 ",Mexico,39 Miles per Gallon,3036 lbs
+11/21/2012,Ford," $32,603.00 ",Canada,16 Miles per Gallon,2498 lbs
+11/5/2014,Ford," $27,914.00 ",Canada,24 Miles per Gallon,3385 lbs
+9/11/2013,GM," $7,556.00 ",USA,23 Miles per Gallon,4082 lbs
+8/18/2012,Toyota," $13,686.00 ",Mexico,38 Miles per Gallon,4463 lbs
+12/6/2013,Fiat," $22,597.00 ",USA,16 Miles per Gallon,3166 lbs
+11/9/2013,Toyota," $21,810.00 ",Latin America,31 Miles per Gallon,3993 lbs
+3/28/2014,GM," $24,095.00 ",Mexico,16 Miles per Gallon,4102 lbs
+3/24/2013,GM," $20,474.00 ",Latin America,20 Miles per Gallon,2236 lbs
+5/23/2014,Toyota," $10,833.00 ",USA,29 Miles per Gallon,3003 lbs
+12/27/2013,Ford," $34,723.00 ",Mexico,12 Miles per Gallon,3622 lbs
+5/24/2013,Fiat," $20,138.00 ",Latin America,20 Miles per Gallon,4431 lbs
+3/16/2013,Fiat," $23,628.00 ",USA,19 Miles per Gallon,2218 lbs
+12/4/2012,GM," $32,926.00 ",Mexico,21 Miles per Gallon,4141 lbs
+6/13/2013,Ford," $29,953.00 ",Latin America,17 Miles per Gallon,3165 lbs
+10/29/2014,GM," $24,186.00 ",USA,14 Miles per Gallon,4157 lbs
+11/27/2012,GM," $14,011.00 ",Canada,23 Miles per Gallon,3962 lbs
+10/7/2012,Ford," $31,404.00 ",USA,15 Miles per Gallon,3462 lbs
+11/29/2012,Toyota," $8,916.00 ",Mexico,23 Miles per Gallon,3159 lbs
+3/22/2013,GM," $38,484.00 ",USA,21 Miles per Gallon,4147 lbs
+12/29/2012,GM," $12,404.00 ",Mexico,12 Miles per Gallon,2936 lbs
+10/9/2013,Fiat," $5,904.00 ",USA,23 Miles per Gallon,2179 lbs
+10/23/2012,Fiat," $36,928.00 ",Canada,24 Miles per Gallon,2221 lbs
+6/8/2014,Fiat," $6,487.00 ",Latin America,20 Miles per Gallon,2833 lbs
+2/6/2013,Fiat," $6,515.00 ",Canada,21 Miles per Gallon,2055 lbs
+9/21/2012,Ford," $30,574.00 ",USA,24 Miles per Gallon,4322 lbs
+8/30/2013,Fiat," $26,679.00 ",Canada,16 Miles per Gallon,4287 lbs
+8/18/2013,Fiat," $19,627.00 ",Canada,21 Miles per Gallon,3135 lbs
+8/18/2014,Fiat," $28,768.00 ",Canada,25 Miles per Gallon,2029 lbs
+11/26/2012,Toyota," $5,894.00 ",USA,26 Miles per Gallon,2336 lbs
+9/25/2013,Toyota," $29,436.00 ",USA,39 Miles per Gallon,4255 lbs
+8/12/2013,Fiat," $38,459.00 ",Canada,16 Miles per Gallon,3126 lbs
+8/18/2014,Ford," $16,947.00 ",Mexico,24 Miles per Gallon,3857 lbs
+12/16/2012,Fiat," $32,350.00 ",USA,23 Miles per Gallon,2696 lbs
+8/28/2012,Ford," $22,434.00 ",Canada,25 Miles per Gallon,3027 lbs
+5/18/2013,GM," $31,212.00 ",Canada,18 Miles per Gallon,3560 lbs
+7/2/2014,Toyota," $10,688.00 ",Canada,24 Miles per Gallon,3987 lbs
+8/2/2012,Fiat," $7,588.00 ",Mexico,14 Miles per Gallon,3514 lbs
+8/31/2012,Toyota," $27,117.00 ",Mexico,24 Miles per Gallon,2883 lbs
+9/21/2012,Toyota," $39,737.00 ",Canada,20 Miles per Gallon,4066 lbs
+11/14/2012,Toyota," $36,492.00 ",Canada,22 Miles per Gallon,4357 lbs
+9/21/2012,Ford," $39,035.00 ",USA,23 Miles per Gallon,3073 lbs
+10/19/2014,Ford," $16,243.00 ",Latin America,21 Miles per Gallon,3258 lbs
+5/18/2014,GM," $5,251.00 ",Canada,14 Miles per Gallon,3091 lbs
+10/28/2014,Ford," $15,811.00 ",Latin America,18 Miles per Gallon,2377 lbs
+2/21/2013,Toyota," $11,775.00 ",Canada,37 Miles per Gallon,3547 lbs
+8/28/2013,Toyota," $7,240.00 ",Canada,22 Miles per Gallon,3329 lbs
+5/18/2014,GM," $36,228.00 ",Mexico,20 Miles per Gallon,4104 lbs
+1/7/2014,Toyota," $27,799.00 ",Mexico,24 Miles per Gallon,2412 lbs
+1/7/2013,Ford," $22,396.00 ",Canada,24 Miles per Gallon,2355 lbs
+9/21/2013,Fiat," $22,992.00 ",Canada,24 Miles per Gallon,3753 lbs
+12/13/2012,Fiat," $7,371.00 ",Canada,21 Miles per Gallon,2955 lbs
+5/14/2014,Ford," $10,178.00 ",Mexico,16 Miles per Gallon,3155 lbs
+5/8/2013,Toyota," $33,928.00 ",Mexico,28 Miles per Gallon,2107 lbs
+4/16/2014,Toyota," $35,275.00 ",Latin America,22 Miles per Gallon,2896 lbs
+10/10/2013,Ford," $21,113.00 ",Mexico,24 Miles per Gallon,3164 lbs
+1/1/2013,Ford," $19,205.00 ",Mexico,21 Miles per Gallon,2480 lbs
+5/5/2013,Ford," $13,674.00 ",USA,19 Miles per Gallon,3661 lbs
+10/5/2012,Ford," $34,968.00 ",USA,12 Miles per Gallon,3999 lbs
+8/17/2012,Toyota," $16,749.00 ",USA,29 Miles per Gallon,2957 lbs
+7/16/2013,GM," $22,297.00 ",Canada,14 Miles per Gallon,2131 lbs
+8/6/2014,Toyota," $26,011.00 ",Mexico,29 Miles per Gallon,3432 lbs
+9/24/2012,Ford," $17,577.00 ",Latin America,24 Miles per Gallon,2513 lbs
+5/12/2014,Fiat," $27,729.00 ",USA,16 Miles per Gallon,2651 lbs
+9/14/2014,GM," $29,331.00 ",Canada,17 Miles per Gallon,3135 lbs
+4/18/2014,Fiat," $16,657.00 ",Canada,23 Miles per Gallon,2312 lbs
+4/11/2014,Ford," $36,542.00 ",USA,15 Miles per Gallon,2601 lbs
+4/20/2014,Ford," $32,206.00 ",Latin America,23 Miles per Gallon,2952 lbs
+7/5/2013,GM," $7,186.00 ",Latin America,19 Miles per Gallon,4241 lbs
+5/20/2013,Toyota," $32,695.00 ",Latin America,30 Miles per Gallon,3519 lbs
+9/3/2014,Toyota," $20,255.00 ",Latin America,39 Miles per Gallon,2904 lbs
+8/16/2013,Toyota," $38,385.00 ",Canada,24 Miles per Gallon,3737 lbs
+2/4/2014,Fiat," $7,899.00 ",USA,12 Miles per Gallon,2385 lbs
+11/16/2013,GM," $5,365.00 ",Canada,16 Miles per Gallon,3714 lbs
+4/23/2014,Ford," $22,260.00 ",Canada,17 Miles per Gallon,3360 lbs
+6/22/2014,GM," $35,402.00 ",Latin America,12 Miles per Gallon,2212 lbs
+12/25/2014,Ford," $13,422.00 ",Canada,12 Miles per Gallon,3289 lbs
+5/21/2013,Fiat," $11,241.00 ",Canada,24 Miles per Gallon,3580 lbs
+8/17/2013,Ford," $20,694.00 ",Canada,20 Miles per Gallon,2799 lbs
+1/3/2013,GM," $7,551.00 ",Canada,22 Miles per Gallon,3297 lbs
+8/27/2012,Ford," $9,451.00 ",USA,23 Miles per Gallon,2634 lbs
+12/3/2012,Ford," $36,161.00 ",Canada,14 Miles per Gallon,4200 lbs
+12/4/2014,Fiat," $37,136.00 ",USA,18 Miles per Gallon,2483 lbs
+3/13/2014,GM," $24,088.00 ",Latin America,12 Miles per Gallon,2280 lbs
+3/31/2014,Fiat," $29,439.00 ",Latin America,15 Miles per Gallon,2721 lbs
+1/7/2015,Ford," $22,250.00 ",Canada,19 Miles per Gallon,2552 lbs
+11/8/2012,Fiat," $14,660.00 ",USA,14 Miles per Gallon,2047 lbs
+10/15/2014,Ford," $13,573.00 ",Latin America,17 Miles per Gallon,2499 lbs
+12/10/2014,Ford," $10,614.00 ",Canada,23 Miles per Gallon,4338 lbs
+11/16/2014,Toyota," $19,400.00 ",Canada,26 Miles per Gallon,3456 lbs
+5/5/2013,Toyota," $8,891.00 ",Mexico,27 Miles per Gallon,3092 lbs
+1/7/2013,Ford," $32,444.00 ",Canada,25 Miles per Gallon,2650 lbs
+8/25/2014,GM," $12,256.00 ",Mexico,13 Miles per Gallon,2982 lbs
+3/18/2014,Toyota," $36,072.00 ",Canada,40 Miles per Gallon,2307 lbs
+4/22/2013,GM," $15,829.00 ",Latin America,13 Miles per Gallon,3690 lbs
+12/23/2013,Ford," $31,391.00 ",Canada,21 Miles per Gallon,3028 lbs
+11/15/2012,GM," $17,966.00 ",USA,19 Miles per Gallon,2089 lbs
+6/24/2013,GM," $11,081.00 ",USA,14 Miles per Gallon,3264 lbs
+9/30/2012,Ford," $30,605.00 ",Latin America,18 Miles per Gallon,4444 lbs
+4/17/2014,Toyota," $12,408.00 ",Canada,22 Miles per Gallon,2673 lbs
+4/23/2013,GM," $25,181.00 ",USA,21 Miles per Gallon,3089 lbs
+8/22/2014,GM," $38,362.00 ",USA,15 Miles per Gallon,3374 lbs
+2/22/2013,GM," $35,205.00 ",Latin America,24 Miles per Gallon,4070 lbs
+5/2/2013,GM," $14,591.00 ",Mexico,19 Miles per Gallon,2591 lbs
+10/31/2014,Toyota," $32,756.00 ",Canada,34 Miles per Gallon,2833 lbs
+5/17/2014,Fiat," $17,667.00 ",Mexico,18 Miles per Gallon,2417 lbs
+4/22/2014,GM," $17,493.00 ",Mexico,16 Miles per Gallon,3757 lbs
+1/14/2014,Ford," $18,614.00 ",Mexico,22 Miles per Gallon,2677 lbs
+8/9/2013,GM," $34,322.00 ",Latin America,19 Miles per Gallon,2727 lbs
+12/19/2012,Ford," $28,798.00 ",Canada,22 Miles per Gallon,2001 lbs
+5/9/2013,GM," $12,249.00 ",Canada,12 Miles per Gallon,2110 lbs
+8/4/2013,Ford," $18,618.00 ",Mexico,13 Miles per Gallon,2317 lbs
+11/23/2013,Toyota," $14,486.00 ",Mexico,33 Miles per Gallon,3983 lbs
+12/21/2013,GM," $31,455.00 ",USA,12 Miles per Gallon,3917 lbs
+10/13/2013,GM," $18,309.00 ",Mexico,14 Miles per Gallon,2973 lbs
+7/23/2013,Ford," $38,238.00 ",Latin America,15 Miles per Gallon,3177 lbs
+4/25/2013,Fiat," $21,305.00 ",Mexico,25 Miles per Gallon,2326 lbs
+7/13/2013,Fiat," $16,093.00 ",Latin America,22 Miles per Gallon,4408 lbs
+12/1/2012,Fiat," $10,386.00 ",USA,18 Miles per Gallon,3879 lbs
+11/11/2014,GM," $12,331.00 ",Latin America,20 Miles per Gallon,2170 lbs
+6/27/2014,GM," $11,065.00 ",Latin America,19 Miles per Gallon,2870 lbs
+2/28/2014,GM," $35,414.00 ",Latin America,18 Miles per Gallon,3757 lbs
+2/5/2014,GM," $22,617.00 ",Canada,17 Miles per Gallon,2575 lbs
+11/17/2012,Toyota," $23,323.00 ",Mexico,36 Miles per Gallon,2607 lbs
+4/6/2013,GM," $19,283.00 ",USA,24 Miles per Gallon,3743 lbs
+9/5/2012,Toyota," $14,046.00 ",USA,24 Miles per Gallon,2467 lbs
+11/27/2013,Toyota," $35,148.00 ",USA,31 Miles per Gallon,3240 lbs
+3/8/2014,Toyota," $25,340.00 ",Mexico,36 Miles per Gallon,2434 lbs
+8/14/2014,Ford," $32,409.00 ",Latin America,15 Miles per Gallon,2944 lbs
+6/15/2014,Ford," $6,032.00 ",USA,19 Miles per Gallon,3281 lbs
+2/7/2014,GM," $27,844.00 ",Latin America,12 Miles per Gallon,2170 lbs
+10/24/2012,Toyota," $24,807.00 ",Canada,21 Miles per Gallon,2310 lbs
+11/21/2012,Ford," $20,853.00 ",Mexico,15 Miles per Gallon,2945 lbs
+5/29/2013,Fiat," $20,183.00 ",Latin America,20 Miles per Gallon,2457 lbs
+1/11/2013,Fiat," $7,997.00 ",Latin America,15 Miles per Gallon,3229 lbs
+5/1/2014,Toyota," $8,549.00 ",Canada,36 Miles per Gallon,3345 lbs
+4/8/2013,Ford," $19,014.00 ",USA,24 Miles per Gallon,2397 lbs
+3/6/2013,Toyota," $12,773.00 ",Canada,23 Miles per Gallon,3739 lbs
+4/20/2014,Fiat," $38,286.00 ",Latin America,16 Miles per Gallon,4102 lbs
+1/13/2014,GM," $36,863.00 ",USA,23 Miles per Gallon,2963 lbs
+12/25/2013,Ford," $7,564.00 ",Mexico,16 Miles per Gallon,3926 lbs
+10/8/2014,GM," $29,464.00 ",Latin America,21 Miles per Gallon,2246 lbs
+7/18/2013,Fiat," $20,853.00 ",Mexico,24 Miles per Gallon,3963 lbs
+7/19/2013,GM," $12,050.00 ",Canada,15 Miles per Gallon,2379 lbs
+11/14/2013,Fiat," $28,383.00 ",Latin America,23 Miles per Gallon,2013 lbs
+12/21/2013,Fiat," $31,673.00 ",Mexico,17 Miles per Gallon,2222 lbs
+8/22/2012,Toyota," $22,938.00 ",Canada,28 Miles per Gallon,2223 lbs
+12/11/2013,GM," $36,383.00 ",Latin America,18 Miles per Gallon,3418 lbs
+11/16/2013,GM," $27,239.00 ",USA,23 Miles per Gallon,2755 lbs
+1/31/2013,Toyota," $25,460.00 ",USA,30 Miles per Gallon,3584 lbs
+7/1/2013,Fiat," $14,755.00 ",Latin America,15 Miles per Gallon,4122 lbs
+8/20/2012,Ford," $38,541.00 ",Latin America,20 Miles per Gallon,2001 lbs
+1/16/2014,Ford," $38,001.00 ",USA,17 Miles per Gallon,2461 lbs
+3/20/2013,Ford," $14,590.00 ",Latin America,17 Miles per Gallon,2663 lbs
+9/22/2014,Ford," $32,643.00 ",USA,15 Miles per Gallon,3707 lbs
+8/31/2014,Toyota," $5,767.00 ",Canada,25 Miles per Gallon,3671 lbs
+5/6/2013,GM," $25,852.00 ",Canada,14 Miles per Gallon,4442 lbs
+6/10/2013,Fiat," $29,006.00 ",Canada,20 Miles per Gallon,4057 lbs
+3/15/2013,Ford," $35,536.00 ",Latin America,19 Miles per Gallon,3035 lbs
+10/5/2012,Fiat," $38,402.00 ",Latin America,20 Miles per Gallon,4411 lbs
+11/19/2012,Toyota," $18,606.00 ",Canada,28 Miles per Gallon,4309 lbs
+5/11/2014,Fiat," $13,469.00 ",Canada,17 Miles per Gallon,3224 lbs
+8/25/2013,Ford," $18,028.00 ",Mexico,20 Miles per Gallon,2845 lbs
+10/26/2013,Ford," $15,971.00 ",Canada,16 Miles per Gallon,3295 lbs
+2/2/2014,Toyota," $10,481.00 ",Latin America,21 Miles per Gallon,2091 lbs
+5/22/2014,Ford," $23,912.00 ",USA,16 Miles per Gallon,2033 lbs
+9/6/2014,Ford," $10,688.00 ",Canada,20 Miles per Gallon,3134 lbs
+8/11/2012,Toyota," $21,239.00 ",Canada,22 Miles per Gallon,2215 lbs
+10/20/2014,Fiat," $16,884.00 ",USA,12 Miles per Gallon,2771 lbs
+12/14/2012,Toyota," $8,270.00 ",Latin America,22 Miles per Gallon,2446 lbs
+7/16/2013,GM," $12,737.00 ",Mexico,25 Miles per Gallon,4288 lbs
+8/16/2013,Toyota," $23,880.00 ",Latin America,23 Miles per Gallon,2882 lbs
+5/18/2014,GM," $12,583.00 ",USA,12 Miles per Gallon,3920 lbs
+11/2/2013,Toyota," $6,014.00 ",Latin America,40 Miles per Gallon,2067 lbs
+2/26/2014,Fiat," $6,356.00 ",USA,18 Miles per Gallon,3691 lbs
+3/23/2013,GM," $22,205.00 ",Latin America,23 Miles per Gallon,4159 lbs
+7/1/2013,Toyota," $29,894.00 ",USA,29 Miles per Gallon,2471 lbs
+9/11/2014,GM," $28,576.00 ",USA,24 Miles per Gallon,2422 lbs
+4/29/2014,Fiat," $34,208.00 ",Mexico,19 Miles per Gallon,2381 lbs
+1/6/2013,Ford," $16,821.00 ",USA,14 Miles per Gallon,3461 lbs
+6/27/2014,Fiat," $6,512.00 ",USA,23 Miles per Gallon,4415 lbs
+5/31/2014,GM," $10,316.00 ",Latin America,23 Miles per Gallon,3664 lbs
+5/7/2014,Fiat," $39,454.00 ",Latin America,17 Miles per Gallon,3125 lbs
+5/14/2014,GM," $15,436.00 ",Canada,21 Miles per Gallon,4359 lbs
+10/26/2012,Ford," $32,691.00 ",Canada,23 Miles per Gallon,2896 lbs
+2/23/2013,Fiat," $33,702.00 ",Latin America,19 Miles per Gallon,3988 lbs
+9/1/2013,GM," $13,134.00 ",Latin America,25 Miles per Gallon,3616 lbs
+12/21/2014,GM," $32,011.00 ",USA,23 Miles per Gallon,4417 lbs
+12/7/2012,Toyota," $17,743.00 ",USA,26 Miles per Gallon,3745 lbs
+5/18/2014,Toyota," $31,828.00 ",Latin America,38 Miles per Gallon,2405 lbs
+3/11/2014,Toyota," $11,873.00 ",Latin America,33 Miles per Gallon,3623 lbs
+11/13/2014,Ford," $21,158.00 ",Mexico,25 Miles per Gallon,2151 lbs
+5/1/2013,GM," $11,977.00 ",Mexico,19 Miles per Gallon,4132 lbs
+2/11/2013,Toyota," $33,497.00 ",USA,30 Miles per Gallon,2234 lbs
+12/31/2013,Ford," $12,185.00 ",USA,24 Miles per Gallon,2017 lbs
+12/12/2014,GM," $27,094.00 ",Mexico,12 Miles per Gallon,2612 lbs
+3/24/2013,Fiat," $27,283.00 ",Latin America,25 Miles per Gallon,2688 lbs
+10/15/2014,Fiat," $26,950.00 ",USA,18 Miles per Gallon,4399 lbs
+11/4/2014,Fiat," $10,303.00 ",Mexico,21 Miles per Gallon,2609 lbs
+9/7/2014,Fiat," $28,905.00 ",Latin America,21 Miles per Gallon,3897 lbs
+11/10/2012,Fiat," $24,222.00 ",Latin America,24 Miles per Gallon,2893 lbs
+6/14/2014,GM," $32,114.00 ",Canada,25 Miles per Gallon,3529 lbs
+10/30/2013,GM," $34,866.00 ",USA,12 Miles per Gallon,4213 lbs
+2/22/2014,Fiat," $30,253.00 ",Canada,23 Miles per Gallon,3670 lbs
+8/31/2014,GM," $31,412.00 ",Latin America,22 Miles per Gallon,4037 lbs
+5/17/2013,Toyota," $33,931.00 ",Canada,36 Miles per Gallon,3506 lbs
+9/17/2014,Fiat," $30,935.00 ",Canada,16 Miles per Gallon,2858 lbs
+3/20/2013,Fiat," $11,302.00 ",Latin America,19 Miles per Gallon,4481 lbs
+9/7/2012,GM," $7,692.00 ",Canada,25 Miles per Gallon,2594 lbs
+12/21/2014,GM," $15,573.00 ",Mexico,25 Miles per Gallon,4374 lbs
+4/20/2014,GM," $15,817.00 ",Mexico,22 Miles per Gallon,4285 lbs
+9/26/2012,GM," $9,911.00 ",Latin America,18 Miles per Gallon,2199 lbs
+6/24/2014,Ford," $20,542.00 ",Mexico,25 Miles per Gallon,2159 lbs
+9/7/2012,GM," $25,556.00 ",Mexico,13 Miles per Gallon,3390 lbs
+1/14/2013,Toyota," $27,393.00 ",USA,23 Miles per Gallon,2078 lbs
+1/13/2014,Toyota," $25,504.00 ",Mexico,35 Miles per Gallon,3509 lbs
+4/24/2013,Fiat," $27,477.00 ",USA,25 Miles per Gallon,3980 lbs
+7/7/2014,GM," $7,671.00 ",Latin America,14 Miles per Gallon,3383 lbs
+12/6/2012,Ford," $38,851.00 ",Latin America,20 Miles per Gallon,2013 lbs
+11/28/2013,Fiat," $34,402.00 ",Canada,20 Miles per Gallon,4415 lbs
+3/11/2013,Ford," $31,756.00 ",Canada,24 Miles per Gallon,3580 lbs
+7/12/2014,Toyota," $22,736.00 ",USA,37 Miles per Gallon,3960 lbs
+4/12/2013,Toyota," $21,416.00 ",USA,31 Miles per Gallon,2711 lbs
+8/11/2013,Toyota," $38,825.00 ",Latin America,31 Miles per Gallon,3152 lbs
+2/23/2014,Ford," $18,762.00 ",USA,24 Miles per Gallon,3016 lbs
+1/3/2014,Fiat," $20,104.00 ",Latin America,17 Miles per Gallon,2695 lbs
+10/15/2013,GM," $19,993.00 ",Canada,14 Miles per Gallon,2014 lbs
+10/20/2014,Toyota," $34,975.00 ",Latin America,32 Miles per Gallon,3871 lbs
+1/11/2014,Fiat," $17,555.00 ",Canada,12 Miles per Gallon,4016 lbs
+1/14/2014,Fiat," $9,102.00 ",Latin America,24 Miles per Gallon,4336 lbs
+11/2/2014,Toyota," $27,418.00 ",USA,24 Miles per Gallon,3126 lbs
+3/29/2013,Toyota," $26,972.00 ",Latin America,26 Miles per Gallon,4417 lbs
+12/19/2014,Fiat," $5,237.00 ",Latin America,20 Miles per Gallon,2071 lbs
+9/3/2012,Fiat," $18,605.00 ",USA,14 Miles per Gallon,2193 lbs
+12/2/2012,Toyota," $31,200.00 ",Canada,32 Miles per Gallon,3242 lbs
+1/1/2014,GM," $34,107.00 ",USA,20 Miles per Gallon,3255 lbs
+10/3/2014,GM," $23,828.00 ",USA,16 Miles per Gallon,2424 lbs
+9/19/2013,Ford," $34,836.00 ",Mexico,12 Miles per Gallon,2235 lbs
+1/17/2013,GM," $36,801.00 ",Latin America,20 Miles per Gallon,2160 lbs
+12/1/2013,Fiat," $29,335.00 ",Latin America,14 Miles per Gallon,3907 lbs
+9/28/2012,Fiat," $5,278.00 ",Mexico,12 Miles per Gallon,2155 lbs
+9/16/2012,Ford," $19,513.00 ",Canada,24 Miles per Gallon,3312 lbs
+3/28/2013,GM," $39,828.00 ",Canada,24 Miles per Gallon,4301 lbs
+10/19/2012,GM," $7,157.00 ",Canada,21 Miles per Gallon,4217 lbs
+11/15/2012,Fiat," $33,506.00 ",Latin America,20 Miles per Gallon,2350 lbs
+5/29/2014,GM," $22,626.00 ",Mexico,17 Miles per Gallon,4324 lbs
+5/3/2013,GM," $5,548.00 ",Mexico,22 Miles per Gallon,2477 lbs
+9/6/2012,Ford," $33,353.00 ",Latin America,24 Miles per Gallon,3663 lbs
+11/16/2012,Ford," $26,955.00 ",Canada,22 Miles per Gallon,3779 lbs
+11/21/2012,Ford," $10,366.00 ",Latin America,23 Miles per Gallon,2848 lbs
+6/12/2014,Toyota," $26,302.00 ",Canada,39 Miles per Gallon,2040 lbs
+7/20/2013,GM," $5,268.00 ",Canada,23 Miles per Gallon,2635 lbs
+11/17/2012,Toyota," $14,226.00 ",Latin America,32 Miles per Gallon,4381 lbs
+10/29/2013,Fiat," $10,398.00 ",Canada,19 Miles per Gallon,4495 lbs
+4/20/2013,Ford," $17,734.00 ",USA,13 Miles per Gallon,4352 lbs
+9/13/2014,Ford," $16,281.00 ",Latin America,16 Miles per Gallon,3863 lbs
+9/24/2013,GM," $11,384.00 ",Mexico,12 Miles per Gallon,4375 lbs
+11/8/2014,Ford," $39,619.00 ",Canada,20 Miles per Gallon,2656 lbs
+2/9/2014,Ford," $25,327.00 ",Canada,24 Miles per Gallon,3187 lbs
+10/10/2014,GM," $5,509.00 ",Canada,18 Miles per Gallon,3938 lbs
+10/21/2013,Toyota," $21,274.00 ",Mexico,28 Miles per Gallon,4192 lbs
+7/31/2013,Toyota," $15,492.00 ",USA,37 Miles per Gallon,2117 lbs
+7/9/2013,Ford," $11,305.00 ",Latin America,22 Miles per Gallon,2229 lbs
+1/16/2014,Fiat," $35,979.00 ",Mexico,17 Miles per Gallon,2642 lbs
+8/5/2014,GM," $14,941.00 ",Latin America,13 Miles per Gallon,2225 lbs
+11/11/2012,Fiat," $15,086.00 ",Latin America,24 Miles per Gallon,3204 lbs
+8/22/2013,Fiat," $10,046.00 ",USA,12 Miles per Gallon,2020 lbs
+11/21/2014,GM," $8,318.00 ",USA,12 Miles per Gallon,2606 lbs
+7/5/2014,Ford," $34,949.00 ",Canada,15 Miles per Gallon,2526 lbs
+9/30/2012,Fiat," $15,050.00 ",Canada,18 Miles per Gallon,2928 lbs
+7/12/2013,Toyota," $9,820.00 ",USA,32 Miles per Gallon,3477 lbs
+1/18/2014,Fiat," $29,468.00 ",USA,25 Miles per Gallon,2818 lbs
+1/24/2013,GM," $5,680.00 ",Mexico,15 Miles per Gallon,4415 lbs
+7/12/2014,Toyota," $18,208.00 ",Mexico,20 Miles per Gallon,3420 lbs
+2/16/2013,Fiat," $19,698.00 ",Canada,17 Miles per Gallon,4294 lbs
+10/5/2014,Ford," $34,774.00 ",USA,24 Miles per Gallon,2233 lbs
+8/24/2014,Toyota," $27,196.00 ",Mexico,33 Miles per Gallon,2694 lbs
+8/25/2012,Toyota," $24,020.00 ",USA,21 Miles per Gallon,2678 lbs
+4/28/2014,Ford," $24,616.00 ",Mexico,25 Miles per Gallon,3348 lbs
+1/12/2014,GM," $28,943.00 ",Mexico,15 Miles per Gallon,3582 lbs
+9/19/2013,Fiat," $35,860.00 ",USA,12 Miles per Gallon,2515 lbs
+4/20/2013,Fiat," $23,775.00 ",Mexico,18 Miles per Gallon,4181 lbs
+8/5/2012,Toyota," $16,123.00 ",Canada,32 Miles per Gallon,2963 lbs
+8/3/2013,Ford," $28,182.00 ",Mexico,13 Miles per Gallon,3820 lbs
+9/18/2013,Fiat," $14,091.00 ",USA,23 Miles per Gallon,4048 lbs
+9/10/2012,Toyota," $9,842.00 ",USA,36 Miles per Gallon,3537 lbs
+2/15/2014,Ford," $36,045.00 ",Mexico,17 Miles per Gallon,3167 lbs
+11/5/2014,GM," $11,022.00 ",Mexico,22 Miles per Gallon,3065 lbs
+6/22/2014,Toyota," $15,698.00 ",Canada,39 Miles per Gallon,3326 lbs
+1/14/2015,Toyota," $15,060.00 ",Canada,27 Miles per Gallon,2708 lbs
+12/19/2014,Ford," $28,267.00 ",USA,17 Miles per Gallon,3915 lbs
+9/29/2013,Toyota," $15,454.00 ",USA,27 Miles per Gallon,2194 lbs
+3/12/2014,Fiat," $37,306.00 ",Latin America,25 Miles per Gallon,4238 lbs
+11/29/2014,Fiat," $32,163.00 ",Latin America,21 Miles per Gallon,2109 lbs
+4/27/2014,GM," $30,221.00 ",Canada,19 Miles per Gallon,2836 lbs
+12/20/2012,Toyota," $5,187.00 ",Canada,40 Miles per Gallon,3313 lbs
+7/23/2014,Fiat," $38,237.00 ",Latin America,22 Miles per Gallon,2007 lbs
+1/15/2014,Toyota," $38,312.00 ",Canada,26 Miles per Gallon,2909 lbs
+9/24/2014,Ford," $27,972.00 ",Latin America,23 Miles per Gallon,2467 lbs
+5/5/2014,Fiat," $12,172.00 ",Mexico,19 Miles per Gallon,4293 lbs
+10/12/2014,Toyota," $35,898.00 ",Canada,38 Miles per Gallon,3857 lbs
+5/14/2014,Fiat," $35,713.00 ",Latin America,24 Miles per Gallon,2820 lbs
+4/15/2014,Toyota," $39,706.00 ",Canada,24 Miles per Gallon,3738 lbs
+4/19/2013,Toyota," $10,495.00 ",USA,23 Miles per Gallon,3367 lbs
+11/3/2012,Toyota," $26,609.00 ",Canada,32 Miles per Gallon,3836 lbs
+8/21/2012,Fiat," $17,256.00 ",Latin America,19 Miles per Gallon,2909 lbs
+10/1/2013,GM," $21,066.00 ",Latin America,24 Miles per Gallon,4270 lbs
+11/16/2013,Toyota," $11,832.00 ",USA,35 Miles per Gallon,2482 lbs
+8/25/2013,GM," $13,733.00 ",USA,18 Miles per Gallon,2271 lbs
+6/28/2013,Fiat," $26,758.00 ",USA,24 Miles per Gallon,2943 lbs
+5/8/2013,Toyota," $5,412.00 ",Latin America,23 Miles per Gallon,2834 lbs
+7/23/2014,Toyota," $6,200.00 ",Mexico,26 Miles per Gallon,3720 lbs
+2/8/2014,Toyota," $17,313.00 ",Canada,21 Miles per Gallon,2468 lbs
+9/16/2012,Ford," $37,846.00 ",Mexico,25 Miles per Gallon,3026 lbs
+9/19/2014,GM," $7,803.00 ",Latin America,19 Miles per Gallon,2638 lbs
+11/9/2012,GM," $28,588.00 ",Canada,19 Miles per Gallon,3728 lbs
+5/28/2013,GM," $22,553.00 ",USA,19 Miles per Gallon,4287 lbs
+2/14/2013,GM," $19,311.00 ",USA,21 Miles per Gallon,3437 lbs
+2/2/2014,Ford," $34,005.00 ",Canada,17 Miles per Gallon,3935 lbs
+11/11/2014,GM," $12,271.00 ",Latin America,20 Miles per Gallon,3441 lbs
+1/22/2013,GM," $19,449.00 ",USA,24 Miles per Gallon,2776 lbs
+11/18/2012,Ford," $13,213.00 ",Mexico,23 Miles per Gallon,2061 lbs
+3/14/2013,Ford," $36,737.00 ",USA,24 Miles per Gallon,3679 lbs
+1/8/2014,Toyota," $37,438.00 ",USA,24 Miles per Gallon,2557 lbs
+3/29/2013,Fiat," $38,746.00 ",Mexico,21 Miles per Gallon,3202 lbs
+8/21/2013,Ford," $22,007.00 ",Mexico,21 Miles per Gallon,3594 lbs
+5/23/2013,GM," $30,915.00 ",USA,22 Miles per Gallon,4187 lbs
+6/11/2013,Toyota," $35,152.00 ",USA,29 Miles per Gallon,3293 lbs
+7/16/2013,Fiat," $11,358.00 ",USA,24 Miles per Gallon,2120 lbs
+6/17/2013,Toyota," $27,165.00 ",Canada,40 Miles per Gallon,3530 lbs
+9/2/2013,Fiat," $14,016.00 ",Canada,19 Miles per Gallon,2409 lbs
+11/24/2012,Toyota," $11,222.00 ",Canada,38 Miles per Gallon,3115 lbs
+10/13/2012,Ford," $24,513.00 ",Latin America,23 Miles per Gallon,4347 lbs
+2/14/2013,Ford," $29,030.00 ",Latin America,17 Miles per Gallon,3848 lbs
+4/6/2014,Ford," $20,164.00 ",USA,24 Miles per Gallon,3813 lbs
+4/11/2014,GM," $9,826.00 ",Canada,19 Miles per Gallon,2057 lbs
+3/21/2013,GM," $25,081.00 ",Mexico,17 Miles per Gallon,4017 lbs
+5/14/2014,GM," $37,696.00 ",Mexico,22 Miles per Gallon,2147 lbs
+10/24/2014,GM," $26,880.00 ",USA,23 Miles per Gallon,3873 lbs
+9/29/2012,GM," $29,424.00 ",USA,20 Miles per Gallon,2648 lbs
+10/6/2013,GM," $24,677.00 ",Canada,14 Miles per Gallon,2850 lbs
+7/15/2013,GM," $15,316.00 ",Canada,18 Miles per Gallon,3522 lbs
+8/28/2014,Toyota," $21,503.00 ",Latin America,37 Miles per Gallon,4005 lbs
+12/26/2012,Toyota," $32,369.00 ",USA,32 Miles per Gallon,2205 lbs
+10/1/2014,Ford," $10,897.00 ",Latin America,14 Miles per Gallon,3416 lbs
+8/15/2014,Toyota," $12,666.00 ",Latin America,37 Miles per Gallon,2850 lbs
+6/25/2014,Toyota," $18,305.00 ",Latin America,25 Miles per Gallon,3913 lbs
+8/5/2012,GM," $7,187.00 ",Canada,18 Miles per Gallon,4295 lbs
+11/26/2012,Fiat," $15,635.00 ",Mexico,14 Miles per Gallon,2567 lbs
+12/10/2013,Fiat," $23,213.00 ",Latin America,22 Miles per Gallon,3976 lbs
+4/17/2013,GM," $36,748.00 ",Latin America,23 Miles per Gallon,2406 lbs
+5/7/2014,Toyota," $35,038.00 ",Latin America,30 Miles per Gallon,2196 lbs
+12/5/2013,Ford," $33,264.00 ",Mexico,25 Miles per Gallon,2845 lbs
+9/26/2013,Ford," $10,083.00 ",Mexico,18 Miles per Gallon,2648 lbs
+11/18/2012,GM," $39,584.00 ",USA,21 Miles per Gallon,3273 lbs
+11/20/2013,Toyota," $11,036.00 ",Latin America,39 Miles per Gallon,2240 lbs
+10/13/2012,Fiat," $13,663.00 ",Mexico,18 Miles per Gallon,3835 lbs
+1/10/2015,Fiat," $22,119.00 ",Latin America,17 Miles per Gallon,2953 lbs
+4/15/2014,Ford," $34,347.00 ",Latin America,24 Miles per Gallon,3930 lbs
+4/13/2013,Toyota," $32,760.00 ",Canada,33 Miles per Gallon,4003 lbs
+9/30/2012,Ford," $23,460.00 ",Latin America,17 Miles per Gallon,2153 lbs
+7/31/2014,Ford," $13,244.00 ",Mexico,16 Miles per Gallon,3151 lbs
+6/15/2014,Fiat," $28,479.00 ",USA,12 Miles per Gallon,2938 lbs
+3/14/2014,Toyota," $21,923.00 ",Latin America,23 Miles per Gallon,3305 lbs
+8/14/2013,GM," $18,742.00 ",USA,15 Miles per Gallon,2397 lbs
+9/3/2014,GM," $10,304.00 ",Mexico,25 Miles per Gallon,4190 lbs
+10/14/2012,Fiat," $5,661.00 ",Mexico,22 Miles per Gallon,2192 lbs
+12/3/2012,Fiat," $36,821.00 ",Canada,21 Miles per Gallon,3410 lbs
+11/16/2013,Ford," $23,874.00 ",Mexico,22 Miles per Gallon,4240 lbs
+12/24/2012,Fiat," $20,931.00 ",USA,19 Miles per Gallon,3680 lbs
+8/14/2014,Toyota," $12,329.00 ",Mexico,25 Miles per Gallon,3167 lbs
+8/19/2012,Fiat," $24,490.00 ",Canada,17 Miles per Gallon,4392 lbs
+9/18/2013,GM," $23,656.00 ",Canada,25 Miles per Gallon,2724 lbs
+7/26/2013,Toyota," $30,733.00 ",USA,31 Miles per Gallon,2501 lbs
+8/27/2014,Fiat," $38,187.00 ",Canada,19 Miles per Gallon,4122 lbs
+8/1/2013,GM," $17,604.00 ",Mexico,13 Miles per Gallon,2019 lbs
+8/10/2014,Fiat," $29,059.00 ",Latin America,20 Miles per Gallon,2262 lbs
+1/15/2014,Fiat," $32,847.00 ",Mexico,20 Miles per Gallon,2565 lbs
+11/19/2012,Ford," $6,191.00 ",USA,19 Miles per Gallon,4359 lbs
+3/21/2014,Toyota," $10,540.00 ",USA,30 Miles per Gallon,2928 lbs
+4/6/2014,GM," $28,135.00 ",Canada,14 Miles per Gallon,3988 lbs
+9/7/2013,Ford," $28,279.00 ",Latin America,19 Miles per Gallon,4227 lbs
+11/22/2013,Fiat," $20,964.00 ",Mexico,24 Miles per Gallon,3144 lbs
+4/15/2014,Ford," $8,031.00 ",Mexico,12 Miles per Gallon,3533 lbs
+10/31/2012,Ford," $29,505.00 ",Mexico,21 Miles per Gallon,4351 lbs
+1/10/2013,Ford," $36,342.00 ",Latin America,15 Miles per Gallon,2211 lbs
+12/14/2012,Ford," $6,494.00 ",Mexico,25 Miles per Gallon,3110 lbs
+5/17/2014,Ford," $35,685.00 ",Latin America,13 Miles per Gallon,3052 lbs
+1/11/2013,Ford," $17,962.00 ",Canada,24 Miles per Gallon,2784 lbs
+2/15/2013,Toyota," $13,579.00 ",USA,40 Miles per Gallon,4433 lbs
+1/4/2015,GM," $12,675.00 ",Canada,20 Miles per Gallon,4145 lbs
+10/22/2014,Fiat," $5,912.00 ",Mexico,12 Miles per Gallon,2607 lbs
+11/9/2012,GM," $11,822.00 ",Mexico,21 Miles per Gallon,3095 lbs
+6/18/2013,Fiat," $25,522.00 ",Mexico,19 Miles per Gallon,2054 lbs
+2/7/2013,Ford," $19,106.00 ",Mexico,23 Miles per Gallon,2759 lbs
+8/9/2012,Toyota," $22,969.00 ",Latin America,40 Miles per Gallon,2333 lbs
+8/21/2014,Toyota," $33,208.00 ",Mexico,35 Miles per Gallon,3937 lbs
+2/10/2014,GM," $11,313.00 ",Canada,21 Miles per Gallon,2865 lbs
+12/11/2014,Fiat," $16,926.00 ",Canada,25 Miles per Gallon,4474 lbs
+5/1/2013,Fiat," $33,937.00 ",Mexico,24 Miles per Gallon,3929 lbs
+5/5/2014,Ford," $16,827.00 ",Canada,13 Miles per Gallon,2794 lbs
+12/5/2013,Fiat," $20,666.00 ",USA,19 Miles per Gallon,3141 lbs
+7/18/2014,GM," $34,019.00 ",Mexico,17 Miles per Gallon,4320 lbs
+8/15/2012,GM," $31,853.00 ",Mexico,22 Miles per Gallon,3435 lbs
+8/29/2012,Toyota," $10,897.00 ",USA,31 Miles per Gallon,2516 lbs
+6/8/2014,GM," $30,470.00 ",USA,13 Miles per Gallon,3817 lbs
+4/5/2014,Fiat," $37,107.00 ",Latin America,14 Miles per Gallon,2207 lbs
+3/5/2013,Toyota," $27,565.00 ",Latin America,22 Miles per Gallon,2472 lbs
+11/10/2012,Fiat," $30,442.00 ",Latin America,17 Miles per Gallon,4021 lbs
+2/24/2014,GM," $10,582.00 ",Latin America,14 Miles per Gallon,2400 lbs
+4/15/2014,Ford," $32,909.00 ",USA,25 Miles per Gallon,2299 lbs
+6/4/2014,Ford," $34,069.00 ",USA,17 Miles per Gallon,4184 lbs
+8/8/2014,Ford," $20,005.00 ",Latin America,25 Miles per Gallon,2586 lbs
+7/1/2014,Fiat," $19,577.00 ",Latin America,21 Miles per Gallon,3189 lbs
+12/25/2012,GM," $22,658.00 ",Mexico,15 Miles per Gallon,4326 lbs
+8/22/2012,Ford," $26,895.00 ",USA,21 Miles per Gallon,4191 lbs
+10/14/2012,Toyota," $12,775.00 ",Latin America,26 Miles per Gallon,4271 lbs
+12/13/2012,Toyota," $31,848.00 ",Canada,40 Miles per Gallon,3762 lbs
+12/17/2014,Fiat," $39,917.00 ",Latin America,13 Miles per Gallon,3712 lbs
+9/9/2012,Ford," $38,428.00 ",Mexico,25 Miles per Gallon,4169 lbs
+10/10/2013,Toyota," $30,538.00 ",Latin America,30 Miles per Gallon,2342 lbs
+2/20/2013,Toyota," $27,018.00 ",Latin America,26 Miles per Gallon,2918 lbs
+9/3/2013,Fiat," $16,308.00 ",Mexico,23 Miles per Gallon,3310 lbs
+9/2/2013,Toyota," $39,534.00 ",Latin America,37 Miles per Gallon,3330 lbs
+8/2/2012,Fiat," $32,952.00 ",Mexico,17 Miles per Gallon,4064 lbs
+10/18/2012,Ford," $7,146.00 ",Latin America,22 Miles per Gallon,4154 lbs
+5/14/2013,GM," $15,902.00 ",Mexico,17 Miles per Gallon,2344 lbs
+10/26/2014,GM," $39,076.00 ",Mexico,15 Miles per Gallon,2446 lbs
+12/23/2014,Fiat," $33,294.00 ",Latin America,22 Miles per Gallon,4093 lbs
+12/31/2014,Fiat," $33,331.00 ",Mexico,19 Miles per Gallon,3127 lbs
+11/7/2012,Fiat," $12,601.00 ",USA,12 Miles per Gallon,3154 lbs
+3/29/2013,Toyota," $20,646.00 ",Latin America,28 Miles per Gallon,2559 lbs
+4/12/2014,GM," $10,191.00 ",Mexico,16 Miles per Gallon,3447 lbs
+11/20/2013,GM," $35,510.00 ",Canada,19 Miles per Gallon,3991 lbs
+9/28/2014,Ford," $35,320.00 ",USA,14 Miles per Gallon,4227 lbs
+4/2/2014,GM," $20,273.00 ",Mexico,14 Miles per Gallon,2688 lbs
+9/28/2014,Toyota," $16,668.00 ",Canada,23 Miles per Gallon,2177 lbs
+10/17/2012,Ford," $19,646.00 ",Canada,19 Miles per Gallon,3414 lbs
+4/4/2013,Fiat," $15,792.00 ",Latin America,20 Miles per Gallon,4073 lbs
+11/10/2013,Ford," $24,649.00 ",USA,22 Miles per Gallon,2369 lbs
+12/17/2014,GM," $15,541.00 ",Canada,24 Miles per Gallon,3061 lbs
+6/12/2014,Ford," $8,072.00 ",USA,25 Miles per Gallon,3502 lbs
+7/7/2014,GM," $9,578.00 ",Mexico,15 Miles per Gallon,3195 lbs
+8/4/2013,Ford," $16,171.00 ",USA,24 Miles per Gallon,4210 lbs
+2/10/2014,Ford," $25,812.00 ",Canada,23 Miles per Gallon,2413 lbs
+4/13/2014,GM," $30,431.00 ",Latin America,12 Miles per Gallon,3903 lbs
+8/24/2013,Toyota," $8,995.00 ",Latin America,31 Miles per Gallon,2421 lbs
+1/16/2014,Toyota," $26,196.00 ",USA,21 Miles per Gallon,4150 lbs
+12/20/2014,Toyota," $10,313.00 ",Mexico,33 Miles per Gallon,3100 lbs
+12/24/2014,Fiat," $6,914.00 ",Mexico,18 Miles per Gallon,2497 lbs
+11/8/2013,Fiat," $36,882.00 ",USA,13 Miles per Gallon,4245 lbs
+8/15/2013,Ford," $31,125.00 ",Latin America,21 Miles per Gallon,2065 lbs
+4/15/2014,Ford," $27,548.00 ",USA,17 Miles per Gallon,2797 lbs
+10/29/2013,Fiat," $8,588.00 ",Latin America,22 Miles per Gallon,4326 lbs
+4/29/2013,GM," $34,009.00 ",Latin America,16 Miles per Gallon,2718 lbs
+10/24/2012,GM," $26,648.00 ",Canada,17 Miles per Gallon,2945 lbs
+10/13/2013,Toyota," $20,929.00 ",Latin America,21 Miles per Gallon,3742 lbs
+5/29/2013,Fiat," $22,938.00 ",Mexico,16 Miles per Gallon,4371 lbs
+6/8/2014,Ford," $12,571.00 ",USA,23 Miles per Gallon,3178 lbs
+6/6/2013,Toyota," $35,826.00 ",USA,23 Miles per Gallon,2715 lbs
+5/14/2014,Fiat," $23,212.00 ",Mexico,22 Miles per Gallon,2814 lbs
+4/10/2014,Toyota," $29,694.00 ",Canada,36 Miles per Gallon,2802 lbs
+2/28/2014,Toyota," $18,260.00 ",Canada,22 Miles per Gallon,4098 lbs
+7/7/2014,GM," $16,486.00 ",USA,23 Miles per Gallon,3823 lbs
+1/18/2014,Ford," $13,982.00 ",USA,25 Miles per Gallon,2971 lbs
+1/22/2013,Ford," $21,102.00 ",USA,20 Miles per Gallon,2373 lbs
+2/12/2013,GM," $28,382.00 ",Latin America,20 Miles per Gallon,2374 lbs
+10/7/2014,GM," $22,291.00 ",Mexico,13 Miles per Gallon,4244 lbs
+10/27/2014,Toyota," $26,740.00 ",Latin America,31 Miles per Gallon,3054 lbs
+9/7/2012,Ford," $35,373.00 ",Latin America,20 Miles per Gallon,3066 lbs
+5/4/2013,Ford," $6,735.00 ",USA,16 Miles per Gallon,2450 lbs
+8/22/2013,Ford," $31,512.00 ",Canada,20 Miles per Gallon,3178 lbs
+9/23/2014,Ford," $17,481.00 ",Latin America,20 Miles per Gallon,3563 lbs
+7/24/2013,Toyota," $25,383.00 ",USA,22 Miles per Gallon,2594 lbs
+12/7/2013,GM," $14,364.00 ",Canada,23 Miles per Gallon,4485 lbs
+10/14/2012,Toyota," $23,797.00 ",Latin America,21 Miles per Gallon,3483 lbs
+9/25/2013,Ford," $28,819.00 ",Latin America,23 Miles per Gallon,2288 lbs
+8/7/2013,Fiat," $8,974.00 ",Latin America,20 Miles per Gallon,3876 lbs
+12/26/2012,Ford," $19,109.00 ",Canada,12 Miles per Gallon,3624 lbs
+11/23/2014,Ford," $17,018.00 ",Canada,18 Miles per Gallon,2206 lbs
+10/17/2012,Ford," $8,345.00 ",Canada,23 Miles per Gallon,4381 lbs
+12/26/2014,GM," $14,039.00 ",Canada,24 Miles per Gallon,2975 lbs
+11/14/2013,Ford," $24,576.00 ",USA,19 Miles per Gallon,3333 lbs
+11/13/2014,Ford," $18,989.00 ",Mexico,21 Miles per Gallon,2580 lbs
+1/3/2013,Fiat," $16,310.00 ",Mexico,22 Miles per Gallon,3847 lbs
+8/17/2012,GM," $15,434.00 ",Mexico,19 Miles per Gallon,3190 lbs
+6/27/2013,GM," $37,646.00 ",Mexico,23 Miles per Gallon,4200 lbs
+9/26/2012,Ford," $39,023.00 ",Canada,17 Miles per Gallon,2011 lbs
+6/22/2014,Ford," $28,880.00 ",Latin America,13 Miles per Gallon,2477 lbs
+1/26/2013,Fiat," $14,978.00 ",USA,20 Miles per Gallon,2432 lbs
+10/10/2012,Ford," $30,930.00 ",Mexico,22 Miles per Gallon,4013 lbs
+1/16/2014,Toyota," $25,915.00 ",Canada,38 Miles per Gallon,4462 lbs
+4/13/2013,GM," $14,794.00 ",Canada,12 Miles per Gallon,4066 lbs
+4/13/2014,Fiat," $25,353.00 ",USA,14 Miles per Gallon,2707 lbs
+11/19/2014,Toyota," $32,656.00 ",Latin America,38 Miles per Gallon,3231 lbs
+4/19/2014,GM," $6,984.00 ",Mexico,22 Miles per Gallon,2922 lbs
+3/11/2013,Toyota," $12,024.00 ",Mexico,33 Miles per Gallon,4440 lbs
+2/19/2013,GM," $20,097.00 ",Canada,18 Miles per Gallon,2105 lbs
+3/20/2014,Toyota," $29,877.00 ",Mexico,26 Miles per Gallon,3578 lbs
+1/9/2014,GM," $10,416.00 ",Mexico,15 Miles per Gallon,3637 lbs
+9/19/2013,Fiat," $31,677.00 ",Mexico,15 Miles per Gallon,3654 lbs
+8/21/2012,Fiat," $37,538.00 ",Canada,16 Miles per Gallon,3409 lbs
+5/16/2013,GM," $11,817.00 ",USA,23 Miles per Gallon,2499 lbs
+5/19/2014,GM," $37,640.00 ",USA,21 Miles per Gallon,3729 lbs
+8/7/2014,GM," $33,830.00 ",USA,18 Miles per Gallon,4029 lbs
+11/10/2013,Fiat," $24,788.00 ",Latin America,15 Miles per Gallon,4004 lbs
+10/7/2012,Fiat," $33,642.00 ",Latin America,22 Miles per Gallon,3458 lbs
+3/9/2014,GM," $6,243.00 ",Mexico,15 Miles per Gallon,2390 lbs
+11/3/2013,Ford," $18,903.00 ",Latin America,16 Miles per Gallon,4414 lbs
+9/7/2013,Ford," $21,177.00 ",Latin America,21 Miles per Gallon,2776 lbs
+11/23/2012,GM," $9,380.00 ",USA,15 Miles per Gallon,2307 lbs
+8/4/2013,Fiat," $32,319.00 ",USA,15 Miles per Gallon,2963 lbs
+8/12/2012,Ford," $11,540.00 ",USA,17 Miles per Gallon,4353 lbs
+7/13/2013,Toyota," $10,456.00 ",Canada,34 Miles per Gallon,4050 lbs
+5/14/2013,Ford," $7,682.00 ",Canada,12 Miles per Gallon,2325 lbs
+3/30/2013,GM," $31,281.00 ",USA,22 Miles per Gallon,4241 lbs
+12/29/2012,GM," $22,214.00 ",Mexico,15 Miles per Gallon,4381 lbs
+4/14/2014,Fiat," $24,922.00 ",USA,12 Miles per Gallon,3674 lbs
+1/12/2015,GM," $16,410.00 ",USA,19 Miles per Gallon,4172 lbs
+6/17/2013,Ford," $35,790.00 ",Latin America,23 Miles per Gallon,2029 lbs
+9/11/2012,GM," $20,505.00 ",Latin America,12 Miles per Gallon,2003 lbs
+9/10/2013,GM," $7,955.00 ",Mexico,14 Miles per Gallon,4046 lbs
+6/12/2013,Toyota," $30,218.00 ",USA,31 Miles per Gallon,3270 lbs
+8/29/2013,GM," $38,457.00 ",Mexico,15 Miles per Gallon,3761 lbs
+11/5/2012,Toyota," $28,858.00 ",Canada,33 Miles per Gallon,4252 lbs
+5/16/2014,Fiat," $14,185.00 ",Mexico,23 Miles per Gallon,4225 lbs
+12/17/2012,Fiat," $5,239.00 ",USA,12 Miles per Gallon,2099 lbs
+7/6/2014,Toyota," $23,229.00 ",Canada,32 Miles per Gallon,2484 lbs
+9/22/2014,Fiat," $33,257.00 ",Mexico,15 Miles per Gallon,4373 lbs
+8/30/2013,Toyota," $39,771.00 ",Latin America,26 Miles per Gallon,2325 lbs
+6/9/2014,Ford," $37,920.00 ",Mexico,24 Miles per Gallon,4232 lbs
+9/1/2014,GM," $6,951.00 ",Mexico,22 Miles per Gallon,3943 lbs
+12/27/2012,GM," $20,072.00 ",USA,20 Miles per Gallon,3317 lbs
+8/1/2013,Toyota," $7,047.00 ",USA,21 Miles per Gallon,3151 lbs
+12/28/2014,Ford," $21,888.00 ",Latin America,16 Miles per Gallon,3275 lbs
+4/17/2014,Ford," $24,711.00 ",USA,19 Miles per Gallon,3014 lbs
+9/17/2012,Ford," $9,911.00 ",Canada,12 Miles per Gallon,3310 lbs
+12/16/2014,Fiat," $24,538.00 ",Latin America,15 Miles per Gallon,2916 lbs
+3/18/2014,GM," $10,636.00 ",Mexico,21 Miles per Gallon,4465 lbs
+9/29/2013,Fiat," $35,070.00 ",Latin America,14 Miles per Gallon,2319 lbs
+8/25/2014,Ford," $13,652.00 ",Mexico,22 Miles per Gallon,4436 lbs
+7/13/2013,Fiat," $35,976.00 ",Canada,21 Miles per Gallon,4049 lbs
+6/19/2013,GM," $29,866.00 ",Canada,19 Miles per Gallon,4405 lbs
+6/1/2014,Toyota," $39,092.00 ",USA,28 Miles per Gallon,3852 lbs
+5/6/2014,GM," $13,455.00 ",Latin America,25 Miles per Gallon,3817 lbs
+9/2/2014,Toyota," $12,403.00 ",USA,30 Miles per Gallon,3933 lbs
+11/18/2014,GM," $36,172.00 ",Mexico,12 Miles per Gallon,3806 lbs
+3/4/2013,Ford," $24,344.00 ",Mexico,22 Miles per Gallon,3358 lbs
+3/6/2014,Ford," $38,824.00 ",USA,18 Miles per Gallon,2595 lbs
+10/8/2013,Fiat," $15,044.00 ",USA,24 Miles per Gallon,2287 lbs
+1/13/2015,Ford," $11,462.00 ",Canada,16 Miles per Gallon,4095 lbs
+12/11/2014,Fiat," $34,295.00 ",Canada,19 Miles per Gallon,2699 lbs
+12/25/2014,Toyota," $16,508.00 ",Canada,25 Miles per Gallon,2569 lbs
+1/18/2014,GM," $17,557.00 ",Mexico,24 Miles per Gallon,4332 lbs
+12/17/2012,Ford," $37,012.00 ",Mexico,15 Miles per Gallon,2201 lbs
+9/26/2014,GM," $18,879.00 ",Latin America,22 Miles per Gallon,4212 lbs
+4/25/2014,Fiat," $33,553.00 ",Mexico,19 Miles per Gallon,3137 lbs
+9/24/2014,GM," $13,903.00 ",Mexico,22 Miles per Gallon,2283 lbs
+8/24/2014,Ford," $28,844.00 ",Canada,23 Miles per Gallon,4239 lbs
+12/9/2013,Toyota," $9,370.00 ",Canada,40 Miles per Gallon,3622 lbs
+2/25/2014,Toyota," $5,757.00 ",Latin America,32 Miles per Gallon,4495 lbs
+7/15/2014,Ford," $31,592.00 ",USA,13 Miles per Gallon,2851 lbs
+9/24/2012,Ford," $32,685.00 ",Mexico,20 Miles per Gallon,4133 lbs
+4/22/2013,GM," $38,895.00 ",Mexico,14 Miles per Gallon,2481 lbs
+6/20/2014,Ford," $36,832.00 ",Latin America,24 Miles per Gallon,2683 lbs
+6/13/2014,GM," $8,883.00 ",Latin America,22 Miles per Gallon,3525 lbs
+12/30/2013,Ford," $20,588.00 ",Canada,17 Miles per Gallon,4280 lbs
+12/14/2014,Fiat," $13,191.00 ",USA,25 Miles per Gallon,4235 lbs
+9/5/2014,Toyota," $24,182.00 ",Mexico,20 Miles per Gallon,4253 lbs
+4/24/2014,GM," $20,050.00 ",Latin America,18 Miles per Gallon,4000 lbs
+4/5/2014,Ford," $7,128.00 ",USA,18 Miles per Gallon,3328 lbs
+9/21/2012,GM," $22,514.00 ",Latin America,20 Miles per Gallon,4440 lbs
+2/12/2014,GM," $30,600.00 ",Canada,14 Miles per Gallon,4047 lbs
+7/22/2013,Ford," $32,720.00 ",Latin America,12 Miles per Gallon,4403 lbs
+8/15/2014,Fiat," $21,261.00 ",Mexico,16 Miles per Gallon,4031 lbs
+5/13/2013,Fiat," $18,502.00 ",Mexico,16 Miles per Gallon,2934 lbs
+8/31/2012,Fiat," $5,835.00 ",Latin America,15 Miles per Gallon,2527 lbs
+12/16/2014,GM," $13,082.00 ",USA,12 Miles per Gallon,3318 lbs
+12/29/2014,Fiat," $17,263.00 ",USA,14 Miles per Gallon,4294 lbs
+6/23/2013,Toyota," $8,903.00 ",Mexico,39 Miles per Gallon,2609 lbs
+3/16/2013,GM," $5,305.00 ",Canada,14 Miles per Gallon,2023 lbs
+9/3/2012,Ford," $39,298.00 ",USA,24 Miles per Gallon,2755 lbs
+7/4/2013,Ford," $37,652.00 ",Latin America,21 Miles per Gallon,4116 lbs
+4/4/2014,Ford," $33,926.00 ",Latin America,20 Miles per Gallon,3387 lbs
+6/15/2014,Ford," $26,505.00 ",USA,12 Miles per Gallon,3778 lbs
+7/15/2014,Toyota," $17,149.00 ",Latin America,32 Miles per Gallon,2619 lbs
+3/31/2013,Ford," $18,197.00 ",Latin America,12 Miles per Gallon,4146 lbs
+10/21/2014,Fiat," $10,043.00 ",USA,17 Miles per Gallon,4206 lbs
+12/14/2014,GM," $39,740.00 ",Mexico,13 Miles per Gallon,2082 lbs
+7/30/2014,GM," $20,454.00 ",Canada,13 Miles per Gallon,4474 lbs
+12/19/2012,Fiat," $39,435.00 ",USA,21 Miles per Gallon,3178 lbs
+6/22/2013,GM," $18,617.00 ",Mexico,12 Miles per Gallon,4090 lbs
+5/23/2013,Fiat," $29,044.00 ",USA,15 Miles per Gallon,2972 lbs
+11/2/2014,Ford," $35,725.00 ",Mexico,23 Miles per Gallon,3655 lbs
+7/4/2014,Toyota," $29,166.00 ",USA,35 Miles per Gallon,3345 lbs
+1/23/2013,GM," $33,335.00 ",Mexico,20 Miles per Gallon,2612 lbs
+11/3/2014,Fiat," $20,841.00 ",Mexico,15 Miles per Gallon,3582 lbs
+11/4/2013,Toyota," $21,891.00 ",Latin America,27 Miles per Gallon,2291 lbs
+1/20/2014,GM," $14,842.00 ",USA,14 Miles per Gallon,2264 lbs
+11/8/2013,Fiat," $31,944.00 ",Canada,21 Miles per Gallon,3532 lbs
+10/12/2013,Fiat," $8,487.00 ",Canada,22 Miles per Gallon,3891 lbs
+11/18/2014,Fiat," $36,648.00 ",Latin America,16 Miles per Gallon,3364 lbs
+7/16/2013,Fiat," $37,137.00 ",USA,18 Miles per Gallon,2384 lbs
+9/20/2012,Fiat," $27,664.00 ",Latin America,12 Miles per Gallon,2594 lbs
+5/20/2014,Fiat," $16,605.00 ",Mexico,17 Miles per Gallon,3837 lbs
+9/28/2013,Toyota," $7,175.00 ",USA,37 Miles per Gallon,2255 lbs
+10/23/2012,Ford," $17,007.00 ",Mexico,25 Miles per Gallon,2917 lbs
+10/9/2012,Fiat," $8,427.00 ",Canada,18 Miles per Gallon,2251 lbs
+7/7/2013,Toyota," $26,924.00 ",USA,36 Miles per Gallon,3968 lbs
+2/19/2014,Fiat," $8,087.00 ",Latin America,13 Miles per Gallon,4022 lbs
+4/30/2014,Toyota," $17,371.00 ",Mexico,33 Miles per Gallon,3625 lbs
+8/14/2014,GM," $10,400.00 ",Latin America,24 Miles per Gallon,3557 lbs
+3/12/2013,GM," $35,897.00 ",Mexico,12 Miles per Gallon,3857 lbs
+3/4/2013,GM," $31,309.00 ",USA,20 Miles per Gallon,3803 lbs
+12/26/2013,Fiat," $28,597.00 ",Mexico,24 Miles per Gallon,2065 lbs
+8/5/2014,Toyota," $16,238.00 ",Mexico,29 Miles per Gallon,3373 lbs
+4/13/2014,Ford," $19,150.00 ",Latin America,17 Miles per Gallon,3933 lbs
+9/12/2014,Ford," $22,347.00 ",Canada,19 Miles per Gallon,4171 lbs
+10/31/2012,Ford," $35,519.00 ",Mexico,23 Miles per Gallon,2527 lbs
+4/17/2013,GM," $18,869.00 ",Mexico,22 Miles per Gallon,3171 lbs
+10/4/2014,GM," $39,599.00 ",Latin America,18 Miles per Gallon,3638 lbs
+10/10/2013,Ford," $7,606.00 ",USA,22 Miles per Gallon,2075 lbs
+6/8/2013,Ford," $5,309.00 ",Mexico,15 Miles per Gallon,4207 lbs
+6/28/2014,Fiat," $35,447.00 ",Latin America,25 Miles per Gallon,4133 lbs
+3/26/2014,Toyota," $13,941.00 ",USA,37 Miles per Gallon,2328 lbs
+1/9/2013,GM," $24,147.00 ",USA,23 Miles per Gallon,3545 lbs
+12/25/2013,GM," $9,928.00 ",Canada,19 Miles per Gallon,2531 lbs
+7/7/2013,Ford," $39,946.00 ",Mexico,14 Miles per Gallon,2816 lbs
+10/30/2012,GM," $26,628.00 ",USA,13 Miles per Gallon,2763 lbs
+9/19/2013,Fiat," $26,544.00 ",Latin America,14 Miles per Gallon,2574 lbs
+4/30/2014,Toyota," $7,172.00 ",USA,34 Miles per Gallon,2267 lbs
+6/15/2013,GM," $21,088.00 ",Latin America,15 Miles per Gallon,2266 lbs
+11/19/2014,Ford," $23,628.00 ",Canada,13 Miles per Gallon,4086 lbs
+6/9/2014,GM," $8,367.00 ",Canada,19 Miles per Gallon,4417 lbs
+3/30/2014,Toyota," $38,654.00 ",Mexico,25 Miles per Gallon,3534 lbs
+11/26/2014,GM," $20,363.00 ",Canada,13 Miles per Gallon,2890 lbs
+7/16/2014,Fiat," $24,415.00 ",USA,17 Miles per Gallon,2683 lbs
+3/5/2014,Toyota," $5,706.00 ",Mexico,20 Miles per Gallon,2119 lbs
+12/23/2012,Fiat," $11,462.00 ",Canada,16 Miles per Gallon,3360 lbs
+10/13/2013,Ford," $16,162.00 ",USA,22 Miles per Gallon,3685 lbs
+10/9/2014,GM," $11,429.00 ",Latin America,18 Miles per Gallon,3463 lbs
+1/20/2014,Toyota," $29,391.00 ",USA,40 Miles per Gallon,2125 lbs
+10/7/2012,Ford," $11,307.00 ",Mexico,15 Miles per Gallon,2884 lbs
+6/17/2014,Ford," $32,396.00 ",Canada,20 Miles per Gallon,2628 lbs
+2/25/2013,Ford," $31,099.00 ",USA,15 Miles per Gallon,3197 lbs
+4/27/2014,Fiat," $12,839.00 ",Canada,17 Miles per Gallon,3550 lbs
+11/8/2013,GM," $35,235.00 ",Canada,22 Miles per Gallon,3694 lbs
+3/18/2014,Fiat," $37,444.00 ",USA,16 Miles per Gallon,2341 lbs
+12/2/2012,Fiat," $39,468.00 ",Canada,18 Miles per Gallon,3867 lbs
+1/9/2014,Ford," $23,543.00 ",USA,12 Miles per Gallon,2733 lbs
+1/8/2013,Ford," $15,571.00 ",Canada,25 Miles per Gallon,2584 lbs
+12/29/2013,Toyota," $11,968.00 ",Mexico,26 Miles per Gallon,4094 lbs
+7/25/2013,Fiat," $7,693.00 ",Latin America,14 Miles per Gallon,3557 lbs
+3/23/2013,Fiat," $10,009.00 ",Canada,14 Miles per Gallon,4260 lbs
+10/28/2012,GM," $17,332.00 ",Latin America,19 Miles per Gallon,2852 lbs
+9/10/2012,GM," $20,518.00 ",Mexico,20 Miles per Gallon,3817 lbs
+4/28/2013,Fiat," $9,291.00 ",USA,20 Miles per Gallon,2962 lbs
+3/9/2014,Ford," $14,227.00 ",Latin America,14 Miles per Gallon,4274 lbs
+11/21/2014,Toyota," $23,332.00 ",Mexico,20 Miles per Gallon,3212 lbs
+7/29/2014,Ford," $32,140.00 ",Mexico,19 Miles per Gallon,2924 lbs
+1/19/2014,Ford," $17,581.00 ",Latin America,21 Miles per Gallon,2376 lbs
+12/27/2012,Fiat," $12,255.00 ",USA,22 Miles per Gallon,2789 lbs
+6/18/2013,Toyota," $38,383.00 ",Mexico,26 Miles per Gallon,4340 lbs
+3/22/2013,Toyota," $34,504.00 ",Mexico,39 Miles per Gallon,4469 lbs
+6/2/2013,Toyota," $25,818.00 ",Canada,23 Miles per Gallon,4201 lbs
+9/25/2013,GM," $25,497.00 ",Canada,22 Miles per Gallon,3856 lbs
+2/6/2014,Toyota," $6,101.00 ",USA,40 Miles per Gallon,3308 lbs
+10/8/2014,Ford," $35,235.00 ",Latin America,19 Miles per Gallon,3015 lbs
+1/5/2013,GM," $13,459.00 ",USA,16 Miles per Gallon,3675 lbs
+7/7/2014,Toyota," $11,561.00 ",Canada,26 Miles per Gallon,3314 lbs
+8/19/2014,Ford," $29,190.00 ",Latin America,23 Miles per Gallon,2457 lbs
+10/14/2012,Fiat," $21,768.00 ",USA,18 Miles per Gallon,3214 lbs
+6/30/2014,Toyota," $25,488.00 ",USA,35 Miles per Gallon,4382 lbs
+1/13/2015,Ford," $38,348.00 ",Mexico,15 Miles per Gallon,3338 lbs
+1/26/2013,GM," $32,124.00 ",Canada,17 Miles per Gallon,2139 lbs
+1/17/2013,GM," $31,990.00 ",Mexico,17 Miles per Gallon,2858 lbs
+12/16/2014,Toyota," $26,683.00 ",Canada,27 Miles per Gallon,3946 lbs
+5/4/2014,Fiat," $6,227.00 ",USA,23 Miles per Gallon,2068 lbs
+5/31/2013,GM," $17,411.00 ",Mexico,22 Miles per Gallon,2228 lbs
+10/16/2014,GM," $20,411.00 ",Mexico,17 Miles per Gallon,4201 lbs
+9/4/2014,Toyota," $26,114.00 ",USA,22 Miles per Gallon,2765 lbs
+4/7/2014,GM," $38,791.00 ",Latin America,22 Miles per Gallon,4183 lbs
+8/17/2013,Fiat," $28,300.00 ",USA,14 Miles per Gallon,4109 lbs
+5/6/2014,Ford," $21,800.00 ",USA,25 Miles per Gallon,2989 lbs
+10/17/2013,GM," $34,714.00 ",Mexico,15 Miles per Gallon,2951 lbs
+9/18/2014,GM," $6,371.00 ",Canada,13 Miles per Gallon,2351 lbs
+10/24/2013,Ford," $21,972.00 ",Latin America,13 Miles per Gallon,2281 lbs
+7/4/2013,Ford," $21,925.00 ",Canada,22 Miles per Gallon,3503 lbs
+12/22/2013,Toyota," $20,479.00 ",Mexico,30 Miles per Gallon,2643 lbs
+4/8/2013,Ford," $7,735.00 ",USA,13 Miles per Gallon,2699 lbs
+5/26/2014,Ford," $17,914.00 ",Latin America,19 Miles per Gallon,2933 lbs
+8/27/2013,Toyota," $9,795.00 ",USA,40 Miles per Gallon,3781 lbs
+12/31/2013,GM," $8,616.00 ",USA,15 Miles per Gallon,3398 lbs
+2/10/2013,Fiat," $35,154.00 ",Mexico,21 Miles per Gallon,3574 lbs
+1/30/2013,Toyota," $16,299.00 ",Canada,21 Miles per Gallon,2570 lbs
+2/22/2013,Fiat," $27,451.00 ",USA,18 Miles per Gallon,4316 lbs
+8/22/2014,Ford," $20,132.00 ",USA,20 Miles per Gallon,3656 lbs
+7/19/2013,Ford," $36,386.00 ",USA,18 Miles per Gallon,4420 lbs
+4/7/2013,Ford," $17,996.00 ",Latin America,13 Miles per Gallon,2301 lbs
+5/13/2014,Ford," $36,539.00 ",USA,16 Miles per Gallon,3856 lbs
+4/4/2013,Fiat," $36,703.00 ",Latin America,13 Miles per Gallon,2877 lbs
+10/23/2013,GM," $25,282.00 ",USA,15 Miles per Gallon,4413 lbs
+12/15/2014,Ford," $12,584.00 ",Latin America,16 Miles per Gallon,2714 lbs
+6/15/2014,Toyota," $9,953.00 ",Mexico,25 Miles per Gallon,2520 lbs
+12/6/2014,Ford," $28,323.00 ",Latin America,12 Miles per Gallon,4102 lbs
+1/4/2014,Toyota," $35,133.00 ",Mexico,23 Miles per Gallon,2569 lbs
+9/18/2013,Toyota," $39,411.00 ",USA,31 Miles per Gallon,3665 lbs
+11/24/2013,GM," $30,243.00 ",Canada,24 Miles per Gallon,4395 lbs
+12/18/2012,Toyota," $5,274.00 ",Canada,35 Miles per Gallon,2369 lbs
+12/21/2013,Toyota," $27,024.00 ",USA,31 Miles per Gallon,4087 lbs
+12/4/2012,GM," $10,649.00 ",USA,22 Miles per Gallon,2311 lbs
+1/31/2013,Fiat," $15,878.00 ",Latin America,20 Miles per Gallon,3657 lbs
+8/4/2012,Fiat," $38,164.00 ",Mexico,15 Miles per Gallon,2025 lbs
+7/28/2013,Toyota," $6,210.00 ",Mexico,23 Miles per Gallon,3696 lbs
+1/9/2014,Toyota," $15,758.00 ",Canada,26 Miles per Gallon,2453 lbs
+7/14/2014,GM," $36,447.00 ",USA,12 Miles per Gallon,2900 lbs
+10/2/2013,Toyota," $32,130.00 ",Latin America,31 Miles per Gallon,2943 lbs
+6/18/2013,GM," $8,491.00 ",USA,13 Miles per Gallon,2479 lbs
+12/25/2014,GM," $15,249.00 ",Latin America,22 Miles per Gallon,2123 lbs
+3/27/2013,Ford," $14,840.00 ",USA,15 Miles per Gallon,2363 lbs
+3/8/2013,Toyota," $11,435.00 ",Latin America,34 Miles per Gallon,4431 lbs
+5/29/2013,GM," $24,032.00 ",Latin America,22 Miles per Gallon,2754 lbs
+7/7/2013,Fiat," $10,138.00 ",Mexico,13 Miles per Gallon,2893 lbs
+12/20/2014,Toyota," $35,371.00 ",Latin America,29 Miles per Gallon,3239 lbs
+12/7/2013,Toyota," $20,209.00 ",Canada,23 Miles per Gallon,3397 lbs
+3/17/2013,GM," $11,738.00 ",Canada,21 Miles per Gallon,2441 lbs
+9/24/2013,Ford," $29,218.00 ",Canada,19 Miles per Gallon,4092 lbs
+1/25/2013,Fiat," $37,668.00 ",USA,23 Miles per Gallon,4082 lbs
+5/9/2014,Ford," $28,913.00 ",Canada,14 Miles per Gallon,4054 lbs
+10/21/2013,Ford," $11,619.00 ",USA,20 Miles per Gallon,3009 lbs
+11/30/2013,Toyota," $22,413.00 ",Mexico,36 Miles per Gallon,2280 lbs
+11/27/2014,Ford," $11,049.00 ",Mexico,25 Miles per Gallon,3746 lbs
+12/19/2014,GM," $12,779.00 ",Canada,19 Miles per Gallon,2268 lbs
+9/9/2014,Ford," $9,204.00 ",Mexico,12 Miles per Gallon,4122 lbs
+12/29/2013,Fiat," $33,890.00 ",Mexico,18 Miles per Gallon,4074 lbs
+1/6/2014,Ford," $16,602.00 ",Canada,13 Miles per Gallon,3383 lbs
+9/3/2014,GM," $10,359.00 ",Latin America,14 Miles per Gallon,2041 lbs
+12/23/2013,GM," $30,422.00 ",USA,20 Miles per Gallon,4063 lbs
+9/16/2012,GM," $36,607.00 ",USA,18 Miles per Gallon,3072 lbs
+6/6/2013,Fiat," $8,299.00 ",USA,14 Miles per Gallon,2359 lbs
+11/2/2014,Fiat," $5,481.00 ",Canada,22 Miles per Gallon,3364 lbs
+3/15/2014,GM," $30,037.00 ",Mexico,20 Miles per Gallon,2808 lbs
+3/5/2013,Toyota," $16,922.00 ",Mexico,34 Miles per Gallon,3904 lbs
+5/29/2013,Toyota," $28,154.00 ",USA,22 Miles per Gallon,2957 lbs
+6/7/2013,Toyota," $36,909.00 ",Canada,22 Miles per Gallon,4463 lbs
+3/23/2014,GM," $25,550.00 ",USA,20 Miles per Gallon,4101 lbs
+12/25/2014,Toyota," $22,449.00 ",Latin America,40 Miles per Gallon,3189 lbs
+5/15/2014,GM," $19,544.00 ",Mexico,24 Miles per Gallon,3540 lbs
+11/17/2014,Fiat," $18,944.00 ",Latin America,13 Miles per Gallon,3153 lbs
+11/17/2014,GM," $14,897.00 ",Canada,25 Miles per Gallon,2042 lbs
+11/5/2013,Ford," $24,370.00 ",Mexico,22 Miles per Gallon,3557 lbs
+11/10/2013,Toyota," $5,982.00 ",USA,29 Miles per Gallon,3204 lbs
+2/16/2014,GM," $31,079.00 ",USA,14 Miles per Gallon,2202 lbs
+3/21/2013,GM," $17,118.00 ",Mexico,12 Miles per Gallon,3429 lbs
+7/5/2014,Ford," $27,748.00 ",Mexico,13 Miles per Gallon,2671 lbs
+1/2/2014,Ford," $30,243.00 ",Canada,14 Miles per Gallon,3062 lbs
+4/14/2013,Toyota," $17,706.00 ",USA,27 Miles per Gallon,2216 lbs
+11/10/2014,Fiat," $11,930.00 ",USA,13 Miles per Gallon,2234 lbs
+4/11/2013,Toyota," $18,225.00 ",USA,33 Miles per Gallon,2234 lbs
+1/9/2014,Fiat," $31,684.00 ",USA,24 Miles per Gallon,2400 lbs
+8/6/2012,Toyota," $39,902.00 ",Latin America,36 Miles per Gallon,2462 lbs
+3/18/2014,Ford," $35,794.00 ",Canada,22 Miles per Gallon,2727 lbs
+10/23/2013,Ford," $18,005.00 ",Canada,13 Miles per Gallon,2484 lbs
+2/6/2014,GM," $31,592.00 ",Mexico,19 Miles per Gallon,2970 lbs
+3/4/2013,Fiat," $11,105.00 ",USA,23 Miles per Gallon,2774 lbs
+5/8/2013,GM," $7,000.00 ",USA,12 Miles per Gallon,2486 lbs
+8/4/2014,Fiat," $11,592.00 ",Latin America,22 Miles per Gallon,4368 lbs
+2/16/2014,Toyota," $14,691.00 ",Canada,20 Miles per Gallon,4356 lbs
+9/14/2014,Fiat," $13,382.00 ",USA,12 Miles per Gallon,3135 lbs
+8/6/2013,GM," $10,516.00 ",Latin America,18 Miles per Gallon,3427 lbs
+8/8/2012,Fiat," $10,945.00 ",Mexico,17 Miles per Gallon,2613 lbs
+12/30/2014,Fiat," $26,143.00 ",Mexico,16 Miles per Gallon,3900 lbs
+8/28/2013,Ford," $20,220.00 ",Mexico,22 Miles per Gallon,2280 lbs
+10/8/2013,GM," $9,064.00 ",Mexico,16 Miles per Gallon,4415 lbs
+3/10/2013,Toyota," $25,329.00 ",USA,34 Miles per Gallon,2257 lbs
